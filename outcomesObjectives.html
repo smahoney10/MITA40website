@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Medicaid Information Technology Architecture</title>
+<title>Outcomes-based Planning Companion Guide – Medicaid Information Technology Architecture</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./mitaAdopt.html" rel="next">
+<link href="./outcomesMITA40.html" rel="next">
+<link href="./outcomesDefintion.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -125,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction to MITA 4.0</a></li><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-title">What is MITA?</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesIntro.html">Outcomes Based Planning</a></li><li class="breadcrumb-item"><a href="./outcomesObjectives.html"><span class="chapter-title">Objectives and Triggers</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -152,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">What is MITA?</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">What is MITA?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -189,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./outcomesObjectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Objectives and Triggers</span></a>
+  <a href="./outcomesObjectives.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Objectives and Triggers</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -386,23 +387,48 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#what-is-mita" id="toc-what-is-mita" class="nav-link active" data-scroll-target="#what-is-mita">What is MITA</a></li>
-  <li><a href="#standards-and-conditions" id="toc-standards-and-conditions" class="nav-link" data-scroll-target="#standards-and-conditions">Standards and Conditions</a></li>
-  <li><a href="#mita-4.0-goals" id="toc-mita-4.0-goals" class="nav-link" data-scroll-target="#mita-4.0-goals">MITA 4.0 Goals</a></li>
-  <li><a href="#mita-4.0-design-principles" id="toc-mita-4.0-design-principles" class="nav-link" data-scroll-target="#mita-4.0-design-principles">MITA 4.0 Design Principles</a></li>
-  <li><a href="#versions-of-mita" id="toc-versions-of-mita" class="nav-link" data-scroll-target="#versions-of-mita">Versions of MITA</a>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a>
   <ul class="collapse">
-  <li><a href="#concepts" id="toc-concepts" class="nav-link" data-scroll-target="#concepts">Concepts</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
+  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose">Purpose</a></li>
   </ul></li>
+  <li><a href="#what-is-an-outcome" id="toc-what-is-an-outcome" class="nav-link" data-scroll-target="#what-is-an-outcome">What is an Outcome?</a></li>
+  <li><a href="#purpose-of-the-outcomes-based-planning-process" id="toc-purpose-of-the-outcomes-based-planning-process" class="nav-link" data-scroll-target="#purpose-of-the-outcomes-based-planning-process">Purpose of the Outcomes-based Planning Process</a></li>
+  <li><a href="#how-does-the-state-self-assessment-ss-a-and-obp-fit-into-the-agencys-existing-processes" id="toc-how-does-the-state-self-assessment-ss-a-and-obp-fit-into-the-agencys-existing-processes" class="nav-link" data-scroll-target="#how-does-the-state-self-assessment-ss-a-and-obp-fit-into-the-agencys-existing-processes">How does the State Self-Assessment (SS-A) and OBP fit into the agency’s existing processes?</a></li>
+  <li><a href="#objectives-and-triggers" id="toc-objectives-and-triggers" class="nav-link" data-scroll-target="#objectives-and-triggers">Objectives and Triggers</a>
+  <ul class="collapse">
+  <li><a href="#key-objectives" id="toc-key-objectives" class="nav-link" data-scroll-target="#key-objectives">Key Objectives</a>
+  <ul class="collapse">
+  <li><a href="#demonstrate-the-value-of-system-investments" id="toc-demonstrate-the-value-of-system-investments" class="nav-link" data-scroll-target="#demonstrate-the-value-of-system-investments">1. Demonstrate the Value of System Investments</a></li>
+  <li><a href="#improve-program-performance-through-strategic-alignment" id="toc-improve-program-performance-through-strategic-alignment" class="nav-link" data-scroll-target="#improve-program-performance-through-strategic-alignment">2. Improve Program Performance Through Strategic Alignment</a></li>
+  <li><a href="#strengthen-organizational-readiness-and-capability" id="toc-strengthen-organizational-readiness-and-capability" class="nav-link" data-scroll-target="#strengthen-organizational-readiness-and-capability">3. Strengthen Organizational Readiness and Capability</a></li>
+  <li><a href="#create-a-culture-of-measurement-and-accountability" id="toc-create-a-culture-of-measurement-and-accountability" class="nav-link" data-scroll-target="#create-a-culture-of-measurement-and-accountability">4. Create a Culture of Measurement and Accountability</a></li>
+  <li><a href="#enable-consistency-and-reusability-across-state-projects" id="toc-enable-consistency-and-reusability-across-state-projects" class="nav-link" data-scroll-target="#enable-consistency-and-reusability-across-state-projects">5. Enable Consistency and Reusability Across State Projects</a></li>
+  </ul></li>
+  <li><a href="#triggers-for-obp" id="toc-triggers-for-obp" class="nav-link" data-scroll-target="#triggers-for-obp">Triggers for OBP</a></li>
+  </ul></li>
+  <li><a href="#roles-and-responsibilities" id="toc-roles-and-responsibilities" class="nav-link" data-scroll-target="#roles-and-responsibilities">Roles and Responsibilities</a></li>
+  <li><a href="#how-outcomes-based-planning-integrates-into-mita-4.0" id="toc-how-outcomes-based-planning-integrates-into-mita-4.0" class="nav-link" data-scroll-target="#how-outcomes-based-planning-integrates-into-mita-4.0">How Outcomes-based Planning integrates into MITA 4.0</a></li>
+  <li><a href="#outcomes-based-planning-process" id="toc-outcomes-based-planning-process" class="nav-link" data-scroll-target="#outcomes-based-planning-process">Outcomes-based Planning Process</a></li>
+  <li><a href="#outcomes-based-planning-template" id="toc-outcomes-based-planning-template" class="nav-link" data-scroll-target="#outcomes-based-planning-template">Outcomes-based Planning Template</a>
+  <ul class="collapse">
+  <li><a href="#step-1-identify-specific-pain-points" id="toc-step-1-identify-specific-pain-points" class="nav-link" data-scroll-target="#step-1-identify-specific-pain-points">Step 1: Identify Specific Pain Points</a></li>
+  <li><a href="#step-2-identify-desired-outcomes" id="toc-step-2-identify-desired-outcomes" class="nav-link" data-scroll-target="#step-2-identify-desired-outcomes">Step 2: Identify Desired Outcomes</a></li>
+  <li><a href="#step-3-determine-how-to-measure-achievementperformance-and-define-success" id="toc-step-3-determine-how-to-measure-achievementperformance-and-define-success" class="nav-link" data-scroll-target="#step-3-determine-how-to-measure-achievementperformance-and-define-success">Step 3: Determine How to Measure Achievement/Performance and Define Success</a></li>
+  <li><a href="#step-4-map-outcomes-to-capabilities" id="toc-step-4-map-outcomes-to-capabilities" class="nav-link" data-scroll-target="#step-4-map-outcomes-to-capabilities">Step 4: Map Outcomes to Capabilities</a></li>
+  </ul></li>
+  <li><a href="#appendix-a-definitions" id="toc-appendix-a-definitions" class="nav-link" data-scroll-target="#appendix-a-definitions">Appendix A: Definitions</a></li>
+  <li><a href="#appendix-b-metric-guidance" id="toc-appendix-b-metric-guidance" class="nav-link" data-scroll-target="#appendix-b-metric-guidance">Appendix B: Metric Guidance</a></li>
+  <li><a href="#appendix-c-example-business-flow" id="toc-appendix-c-example-business-flow" class="nav-link" data-scroll-target="#appendix-c-example-business-flow">Appendix C: Example Business Flow</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction to MITA 4.0</a></li><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-title">What is MITA?</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesIntro.html">Outcomes Based Planning</a></li><li class="breadcrumb-item"><a href="./outcomesObjectives.html"><span class="chapter-title">Objectives and Triggers</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Medicaid Information Technology Architecture</h1>
+<h1 class="title"><span class="chapter-title">Outcomes-based Planning Companion Guide</span></h1>
 </div>
 
 
@@ -419,62 +445,337 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="media/mitaLogo/mitaLogo.png" class="img-fluid"></p>
-<p>The Medicaid Information Technology Architecture (MITA) Framework is an initiative by the Centers for Medicare &amp; Medicaid Services (CMS) in partnership with State Medicaid Agencies (SMAs) and Medicaid systems vendors. It aims to establish national guidance and best practice references for processes, data standards, and technologies that facilitate planning and enhance program administration for State Medicaid Enterprises. Building upon the foundation of previous versions, MITA 4.0 supports the Medicaid mission and goals by facilitating integrated business and information technology transformations. This version refines, refocuses, and repurposes MITA to better align with the evolving needs of SMAs.</p>
-<p>MITA 4.0 introduces several new approaches to enhance its relevance and accessibility, with the goal of making it more meaningful for stakeholders while streamlining processes to reduce the burden on state agencies. The framework incorporates various state agency viewpoints to improve efficiency and better align with the Advanced Planning Document process, certification outcomes, and state agency acquisition processes. Additionally, MITA 4.0 provides guidance that reflects current healthcare and IT trends, ensuring that it remains at the forefront of technological advancements.</p>
-<p>By focusing on these enhancements, MITA 4.0 ensures that technology decisions align with Medicaid business needs, optimizing adaptability, flexibility, interoperability, and data sharing. This evolution enables significant improvements in policy, decision-making, and daily operations, ultimately advancing the capabilities of State Medicaid Enterprises.</p>
-<section id="what-is-mita" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-mita">What is MITA</h2>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>CMS-required outcomes are based on statutory or regulatory requirements and provide a baseline for what is required of a Medicaid Enterprise System (MES). These outcomes are outside of the Outcomes-based Planning (OBP) process. This document will focus on State-specific outcomes. State-specific outcomes are developed by states and should be measurable, achievable, and reflect the short-term goals of the MES project. Metrics provide measurable evidence that the outcomes are achieved on an ongoing basis. States are required to report on the system’s performance to CMS as a condition for receiving enhanced funding.</p>
+</section>
+<section id="purpose" class="level2">
+<h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
+<p>Document what outcomes are, why you should use the OBP process to develop your state-specific outcomes, how outcomes connect to the MITA 4.0 State Self-Assessment (SSA), triggers and objectives for OBP, and the OBP process.</p>
+</section>
+</section>
+<section id="what-is-an-outcome" class="level1">
+<h1>What is an Outcome?</h1>
+<p>Outcomes can take many forms and represent different things to different audiences. For OBP, an outcome is a well-defined, observable, and measurable change in the existing situation that focuses on the end impact of those affected. It expresses changes as benefits, by improving capabilities within an organization or for its stakeholders.</p>
+<p><strong>Characteristics of an ideal outcome:</strong> 1. <strong>Change</strong> – What are we changing? 2. <strong>Affected Stakeholders</strong> – Who and what will it impact? 3. <strong>Benefits</strong> – What are the benefits of the change? 4. <strong>Capability</strong> – What new or improved capabilities are required to make this change happen?</p>
+<p><strong>Example:</strong><br>
+Improve provider satisfaction ratings by 15% within the next six months.</p>
 <ul>
-<li>MITA Framework is a consolidation of principles, models, and guidelines that combine to form a template for the States to use to develop their own enterprise architectures.</li>
-<li>MITA processes provide guidance for State Medicaid Enterprise to use in adopting the MITA Framework through shared leadership, collaboration, and reuse of solutions.</li>
-<li>MITA planning guidelines help States prepare the MITA State Self-Assessment (SS-A) and Roadmap to develop enterprise architectures to align to and advance increasingly in MITA maturity for business, architecture, and data. The guidelines serve as the basis for a state’s requests for appropriate Federal Financial Participation (FFP) for their Medicaid Management Information Systems (MMIS) as well as Medicaid Information Technology (IT) system(s) projects related to eligibility determination and enrollment functions.</li>
+<li><strong>Change:</strong> Improve satisfaction with the Provider Enrollment approval timeline by providing additional interactive channels to resolve issues.</li>
+<li><strong>Affected Stakeholders:</strong> Providers, Provider Organization, State users, etc.</li>
+<li><strong>Benefits:</strong> Quicker onboarding of providers, provider retention, decreases state staff workload.</li>
+<li><strong>Capability:</strong> Enhancement to redefine the Provider Enrollment process such as incorporating real-time updates to the workflow and adding interactive channels to provide real-time issue resolution.</li>
 </ul>
 </section>
-<section id="standards-and-conditions" class="level2">
-<h2 class="anchored" data-anchor-id="standards-and-conditions">Standards and Conditions</h2>
-<p>The MITA framework plays an important role in helping states meet the standards and conditions outlined in <a href="https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112">Standards and Conditions within 42 CFR 433.112</a> required for enhanced federal financial participation (FFP) for Medicaid technology investments funded through an approved APD. By providing a structured approach to planning and development, MITA assists states in aligning their technology solutions with Medicaid business needs and federal requirements. It encourages the use of modular, flexible systems that promote interoperability and data sharing, ensuring that states can effectively coordinate with other health services and systems. MITA also guides states in preparing their Advanced Planning Document (APD) submissions, offering a roadmap to compliance and efficiency. This alignment not only facilitates adherence to federal standards but also supports states in achieving their Medicaid program goals more efficiently, effectively, and sustainably, optimizing adaptability and enhancing overall program administration.</p>
+<section id="purpose-of-the-outcomes-based-planning-process" class="level1">
+<h1>Purpose of the Outcomes-based Planning Process</h1>
+<ol type="1">
+<li><strong>Consistent and repeatable process:</strong> Ensures outcomes are identified consistently across the organization.</li>
+<li><strong>Sustainable:</strong> Can be applied regardless of the team or individuals involved.</li>
+<li><strong>Transparency:</strong> Provides transparency into the outcome identification process.</li>
+<li><strong>Traceability:</strong> Ensures outcomes are traceable to the original challenge or opportunity.</li>
+<li><strong>Continuous Improvement:</strong> Ensures outcomes are regularly reviewed and refined.</li>
+</ol>
+<p><strong>Other benefits:</strong> - Efficient resource allocation - Improved accountability - Enhanced collaboration</p>
 </section>
-<section id="mita-4.0-goals" class="level2">
-<h2 class="anchored" data-anchor-id="mita-4.0-goals">MITA 4.0 Goals</h2>
+<section id="how-does-the-state-self-assessment-ss-a-and-obp-fit-into-the-agencys-existing-processes" class="level1">
+<h1>How does the State Self-Assessment (SS-A) and OBP fit into the agency’s existing processes?</h1>
+<p>Using the Plan-DO-Check-Act (PDCA) cycle:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 4%">
+<col style="width: 21%">
+<col style="width: 74%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Plan</th>
+<th>OBP (Outcomes-based Planning)</th>
+<th>Define outcomes (State/CMS) and metrics; Identify the change, benefits, capabilities, and stakeholders</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Do</td>
+<td>Planning Advance Planning Document (PAPD), APD, Planning &amp; Execution</td>
+<td>PAPD/APD process for funding the project; Project / Program planning; Delivery (DDI/Enhancements)</td>
+</tr>
+<tr class="even">
+<td>Check</td>
+<td>SS-A, Operational Review Cycles, Certification</td>
+<td>Check and validate the outcomes using metrics</td>
+</tr>
+<tr class="odd">
+<td>Call to Action (Trigger)</td>
+<td>Internal Triggers, External Triggers</td>
+<td>Capture gaps and prioritize (internal); Capture regulatory requirements and prioritize (external)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="objectives-and-triggers" class="level1">
+<h1>Objectives and Triggers</h1>
+<p>OBP is a strategic approach that places system improvements at the center of MES investments. It enables states to define the value their system investments are expected to deliver, track progress through measurable indicators, and demonstrate return on investment.</p>
+<section id="key-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="key-objectives">Key Objectives</h2>
+<section id="demonstrate-the-value-of-system-investments" class="level3">
+<h3 class="anchored" data-anchor-id="demonstrate-the-value-of-system-investments">1. Demonstrate the Value of System Investments</h3>
+<p>OBP articulates the value that system investments bring to state Medicaid program goals, improving operations, and delivering measurable benefits to enrollees.<br>
+<strong>Example:</strong><br>
+A 30% reduction in provider enrollment processing time, enabling newly credentialed providers to begin serving patients more quickly.</p>
+</section>
+<section id="improve-program-performance-through-strategic-alignment" class="level3">
+<h3 class="anchored" data-anchor-id="improve-program-performance-through-strategic-alignment">2. Improve Program Performance Through Strategic Alignment</h3>
+<p>OBP aligns system investments with Medicaid program priorities and operational needs.<br>
+<strong>Example:</strong><br>
+Achieving real-time eligibility verification in 90% of cases.</p>
+</section>
+<section id="strengthen-organizational-readiness-and-capability" class="level3">
+<h3 class="anchored" data-anchor-id="strengthen-organizational-readiness-and-capability">3. Strengthen Organizational Readiness and Capability</h3>
+<p>OBP ensures system improvements are accompanied by organizational conditions needed for success, such as change management and workforce development.<br>
+<strong>Example:</strong><br>
+Decreasing average eligibility determination time by 25% within six months.</p>
+</section>
+<section id="create-a-culture-of-measurement-and-accountability" class="level3">
+<h3 class="anchored" data-anchor-id="create-a-culture-of-measurement-and-accountability">4. Create a Culture of Measurement and Accountability</h3>
+<p>OBP encourages a results-oriented management culture, where success is measured by tangible impact on Medicaid program performance and beneficiary outcomes.</p>
+</section>
+<section id="enable-consistency-and-reusability-across-state-projects" class="level3">
+<h3 class="anchored" data-anchor-id="enable-consistency-and-reusability-across-state-projects">5. Enable Consistency and Reusability Across State Projects</h3>
+<p>OBP supports a structured, repeatable approach to articulating goals and expected impact, promoting consistency across projects and enabling reusability.</p>
+</section>
+</section>
+<section id="triggers-for-obp" class="level2">
+<h2 class="anchored" data-anchor-id="triggers-for-obp">Triggers for OBP</h2>
+<ol type="1">
+<li>Initiating a New System Modernization or Module Implementation</li>
+<li>Transitioning from Legacy Systems or Vendors</li>
+<li>MITA State Self-Assessment Results</li>
+<li>Modernization of Cross-Module Business Processes</li>
+<li>Shifts in Medicaid Policy or Strategic Direction</li>
+<li>Operational Reviews or Performance Audits</li>
+<li>Response to Ad Hoc Incidents and Corrective Actions</li>
+</ol>
+</section>
+</section>
+<section id="roles-and-responsibilities" class="level1">
+<h1>Roles and Responsibilities</h1>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 72%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Roles</th>
+<th>Responsibilities</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Subject Matter Experts (SMEs)</td>
+<td>Clarify business needs and outcomes; Provide expertise</td>
+</tr>
+<tr class="even">
+<td>State Medicaid Executives &amp; Senior Managers</td>
+<td>Review/update strategic plans; Determine goals/objectives; Oversee alignment; Designate Outcome champion</td>
+</tr>
+<tr class="odd">
+<td>MITA Project Team</td>
+<td>Manage process/documentation; Develop plans; Select tools/templates; Coordinate activities</td>
+</tr>
+<tr class="even">
+<td>Solution Development Life Cycle Project Managers &amp; PMO</td>
+<td>Lead execution; Define scope/schedule/resources; Monitor risks/quality/performance</td>
+</tr>
+<tr class="odd">
+<td>Business Architecture SMEs</td>
+<td>Evaluate processes/maturity; Identify capabilities; Conduct gap analysis</td>
+</tr>
+<tr class="even">
+<td>Information Architecture SMEs</td>
+<td>Assess data models/strategy; Determine maturity; Perform crosswalk/gap analysis</td>
+</tr>
+<tr class="odd">
+<td>Technical Architecture SMEs</td>
+<td>Evaluate technical capabilities; Determine desired maturity; Map enablers to goals</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="how-outcomes-based-planning-integrates-into-mita-4.0" class="level1">
+<h1>How Outcomes-based Planning integrates into MITA 4.0</h1>
+<p>MITA 4.0 incorporates TOGAF’s definition of a capability as the ability to accomplish a specific outcome or goal. OBP helps mature and refine capabilities over time. Capabilities are business-focused, emphasizing results and strategic objectives. By focusing on capabilities, SMAs can better align resources and processes with strategic goals, improving outcomes.</p>
+</section>
+<section id="outcomes-based-planning-process" class="level1">
+<h1>Outcomes-based Planning Process</h1>
+<ol type="1">
+<li><strong>Identify the business challenge:</strong> Describe the “as-is” state.</li>
+<li><strong>Identify goals:</strong> Main concern and blockers.</li>
+<li><strong>Identify drivers and pain points:</strong> Tangible, real-world, observable.</li>
+<li><strong>Summarize challenge and drivers:</strong> Business challenge statement.</li>
+<li><strong>Develop desired outcomes:</strong> Changes/improvements/benefits for the “to-be” state.</li>
+<li><strong>Identify audience and capability:</strong> Who benefits and what capability is needed.</li>
+<li><strong>Summarize in Outcome Statement.</strong></li>
+<li><strong>Determine measurement:</strong> How to measure, monitor, and report progress.</li>
+<li><strong>Define success:</strong> SMART objective.</li>
+<li><strong>Map outcomes to MITA capability areas.</strong></li>
+<li><strong>Identify tasks and organize into projects.</strong></li>
+<li><strong>Track and assess progress.</strong></li>
+<li><strong>Routinely reassess and adapt.</strong></li>
+</ol>
+</section>
+<section id="outcomes-based-planning-template" class="level1">
+<h1>Outcomes-based Planning Template</h1>
+<p>The Excel template helps states define outcomes and metrics by identifying change, benefits, capabilities, stakeholders, and defining an iterative process.</p>
+<section id="step-1-identify-specific-pain-points" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-identify-specific-pain-points">Step 1: Identify Specific Pain Points</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 76%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Trigger</th>
+<th>Dropdown menu of triggers</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Goal</td>
+<td>What is the goal? (e.g., Reduce Provider Enrollment process turnaround)</td>
+</tr>
+<tr class="even">
+<td>Root Causes</td>
+<td>What prevents the goal? (e.g., Manual, paper-based enrollment)</td>
+</tr>
+<tr class="odd">
+<td>Pain Points</td>
+<td>Barriers to success (e.g., Wet signature required, errors in application)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="step-2-identify-desired-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-identify-desired-outcomes">Step 2: Identify Desired Outcomes</h2>
+<div class="line-block">Business Outcome | What do you want to achieve? (e.g., Automate Provider Enrollment Process) |<br>
+Affected Stakeholder | Who is impacted? (e.g., Providers, Staff) |<br>
+Benefits | What benefits will stakeholders see? (e.g., Reduced burden, decreased turnaround time) |<br>
+Capability | What new capability is needed? (e.g., Provider Enrollment MES Automation) |<br>
+Outcome Statement | Format: [Stakeholder] can [Capability] (under what conditions), resulting in [Benefit] |</div>
+</section>
+<section id="step-3-determine-how-to-measure-achievementperformance-and-define-success" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-determine-how-to-measure-achievementperformance-and-define-success">Step 3: Determine How to Measure Achievement/Performance and Define Success</h2>
+<div class="line-block">Metric Baseline | Current state (e.g., 72 hours average turnaround) |<br>
+Improvement Metric or Milestone | Target (e.g., Reduce by 75%) |<br>
+Success Factor | What indicates success? (e.g., Process automated) |<br>
+Evidence | Document incremental improvements |<br>
+Reporting Period | Timeframe (e.g., 12 months) |</div>
+</section>
+<section id="step-4-map-outcomes-to-capabilities" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-map-outcomes-to-capabilities">Step 4: Map Outcomes to Capabilities</h2>
+<div class="line-block">MITA Capability Area | MITA 4.0 areas (prefilled) |<br>
+MITA Capability | State-specific capabilities |<br>
+Mapped Outcome IDs | Outcome IDs mapped to capabilities |<br>
+Capability Maturity from last SS-A | Latest SS-A results |<br>
+Target Maturity | Target based on outcomes |</div>
+</section>
+</section>
+<section id="appendix-a-definitions" class="level1">
+<h1>Appendix A: Definitions</h1>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Actor</td>
+<td>Person/system/org performing an action to achieve an objective</td>
+</tr>
+<tr class="even">
+<td>Audience</td>
+<td>Person/system/org receiving the result/benefit</td>
+</tr>
+<tr class="odd">
+<td>Benefit</td>
+<td>Improvement in performance/conditions experienced by audience</td>
+</tr>
+<tr class="even">
+<td>Business Challenge</td>
+<td>Situation impeding a business goal (includes Concern and Drivers)</td>
+</tr>
+<tr class="odd">
+<td>Capability</td>
+<td>Ability to achieve a desired objective under specified conditions</td>
+</tr>
+<tr class="even">
+<td>Concern</td>
+<td>High-priority business problem impeding a goal</td>
+</tr>
+<tr class="odd">
+<td>Driver</td>
+<td>Factor causing/inhibiting achievement of goals</td>
+</tr>
+<tr class="even">
+<td>Measure</td>
+<td>Objective attribute as raw data (number/value)</td>
+</tr>
+<tr class="odd">
+<td>Metric</td>
+<td>Combination of measures/data for business context</td>
+</tr>
+<tr class="even">
+<td>Milestone</td>
+<td>Qualitative metric; binary achievement</td>
+</tr>
+<tr class="odd">
+<td>Goal</td>
+<td>Broad, general statement of desired accomplishment</td>
+</tr>
+<tr class="even">
+<td>Objective</td>
+<td>Specific, measurable thing to achieve within a timeframe</td>
+</tr>
+<tr class="odd">
+<td>Outcome</td>
+<td>Defined, observable change demonstrated by metric/milestone</td>
+</tr>
+<tr class="even">
+<td>Success Factor</td>
+<td>Essential activity/condition enabling achievement</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="appendix-b-metric-guidance" class="level1">
+<h1>Appendix B: Metric Guidance</h1>
+<p>Once a state establishes its outcome statement, it needs supporting metrics. Metric data is evidence of accomplishment. Well-designed metrics enhance transparency, accountability, and continuous improvement.</p>
+<p><strong>Considerations:</strong> - What quantifiable metrics demonstrate module/system meets outcome? - How do metrics assess program results? - What is the current baseline?</p>
+<p><strong>Examples:</strong> - Average time to screen a provider. - Number of ER/hospital readmissions (for preventive care services outcome). - Percent of patient engagement within 30 days after discharge.</p>
+<p>Setting a timebound benchmark establishes a clear, measurable target for improvement.</p>
+<p><em>Source: CMS MES Certification Repository: Writing a Good Outcomes Statement</em></p>
+</section>
+<section id="appendix-c-example-business-flow" class="level1">
+<h1>Appendix C: Example Business Flow</h1>
+<p>Using the MES IT investment lifecycle:</p>
 <ul>
-<li>Develop seamless and integrated systems that communicate effectively to achieve common Medicaid goals through interoperability and common standards.</li>
-<li>Promote an environment that supports flexibility, adaptability, and rapid response to changes in programs and technology.</li>
-<li>Promote an enterprise view that supports enabling technologies that align with Medicaid business processes and technologies.</li>
-<li>Provide data that is timely, accurate, usable, and easily accessible in order to support analysis and decision making for health care management and program administration.</li>
-<li>Provide performance measurement for accountability and planning.</li>
-<li>Coordinate with public health and other partners to integrate health outcomes within the Medicaid community.</li>
+<li><strong>Planning phase:</strong> Develop initial outcomes for new module and refine with CMS.</li>
+<li><strong>Development phase:</strong> Prepare for Operational Readiness Review (ORR) with CMS.</li>
+<li><strong>Production phase:</strong> Prepare for final CR with CMS.</li>
 </ul>
-</section>
-<section id="mita-4.0-design-principles" class="level2">
-<h2 class="anchored" data-anchor-id="mita-4.0-design-principles">MITA 4.0 Design Principles</h2>
-<p>During the development of MITA 4.0, workgroup participants identified a set of core principles designed to prioritize updates MITA 3.0 that make MITA more meaningful and accessible to SMAs. These principles ensure that MITA remains a relevant and valuable tool for State Medicaid Agencies and their stakeholders.</p>
-<p><strong>Define Clear Linkages Between Capabilities and Outcomes</strong>: Establish clear definitions for both MITA Capabilities and Outcomes, and articulate the relationship between outcomes and the MITA architectures. This principle ensures that every capability is directly aligned with desired outcomes, linking strategic objectives with operational execution in a coherent framework.</p>
-<p><strong>Business-Driven Transformation</strong>: Define business transformations with a focus on aligning IT solutions with both common and unique state needs. This principle ensures that technology initiatives are directly informed by business objectives, leading to more effective and tailored solutions.</p>
-<p><strong>Standards First</strong>: Promote data and technical standards to improve IT development cost-effectiveness. By prioritizing standards, we aim to streamline processes and reduce complexity, ultimately enhancing interoperability and efficiency.</p>
-<p><strong>Reduce Burden on SMAs</strong>: Simplify processes and requirements to alleviate the administrative load on State Medicaid Agencies, enabling them to focus more on service delivery and less on compliance.</p>
-<p><strong>Enable Automation</strong>: Encourage the adoption of automated processes to increase efficiency and accuracy in Medicaid operations, reducing manual intervention and the potential for errors.</p>
-<p><strong>Release Guidance Aligned with Current Trends</strong>: Provide guidance that reflects the latest trends in healthcare and IT, ensuring that MITA 4.0 remains relevant and forward-looking in its approach to Medicaid management.</p>
-<p><strong>Integrate with Other Activities</strong>: Enhance the integration of MITA with related activities such as APD development, Certification, T-MSIS reporting, and state procurement processes. This principle aims to create a cohesive framework that supports comprehensive Medicaid management and aligns with broader state and federal initiatives.</p>
-<p><strong>Transition to a Web-Enabled Presentation</strong>: Move from the static, PDF-based MITA 3.0 to a dynamic, web-enabled format. This principle facilitates easier maintenance and continuous improvement by the community, allowing for real-time updates and enabling stakeholders to access the most current information. By fostering a collaborative environment, we encourage the sharing of insights and innovations, making MITA a more robust and adaptable framework for all users.</p>
-<p>These principles are foundational to the development and implementation of MITA 4.0, ensuring it effectively supports the evolving needs of Medicaid operations.</p>
-</section>
-<section id="versions-of-mita" class="level1">
-<h1>Versions of MITA</h1>
-<p>— dev a change matrix showing dif between versions —</p>
-<section id="concepts" class="level2">
-<h2 class="anchored" data-anchor-id="concepts">Concepts</h2>
-<ul>
-<li><strong>Outcomes</strong>: Define what SMAs aim to achieve through the implementation of MITA.</li>
-<li><strong>Business Process Model</strong>: Define common business processes for the Medicaid Enterprise.</li>
-<li><strong>Maturity Model</strong>: Illustrate the maturation of Medicaid operations over time.</li>
-<li><strong>Capability Matrices</strong>: Align business, information, and technical capabilities with the Maturity Model.</li>
-<li><strong>State Self-Assessment (SS-A)</strong>: Represent current and future business, information, and technical capabilities.</li>
-</ul>
-<p>MITA 4.0 ensures that technology decisions align with Medicaid business needs, optimizing adaptability, flexibility, interoperability, and data sharing. This evolution enables significant improvements in policy, decision-making, and daily operations. Explore the MITA 4.0 Framework to advance your State Medicaid Enterprise.</p>
+<p><em>Source: CMS MES Certification Repository: SMC Process Overview</em></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -880,10 +1181,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./outcomesDefintion.html" class="pagination-link" aria-label="What is an outcome?">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">What is an outcome?</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./mitaAdopt.html" class="pagination-link" aria-label="Why Adopt MITA 4.0?">
-        <span class="nav-page-text"><span class="chapter-title">Why Adopt MITA 4.0?</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./outcomesMITA40.html" class="pagination-link" aria-label="Outcomes and MITA 4.0">
+        <span class="nav-page-text"><span class="chapter-title">Outcomes and MITA 4.0</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
