@@ -9,7 +9,7 @@
 <meta name="author" content="Your Name">
 <meta name="description" content="MITA 4.0 reference guide">
 
-<title>CONOPS overview – Medicaid Information Technology Architecture</title>
+<title>Develop Capability Architecture Process – Medicaid Information Technology Architecture</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,7 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./roadmap.html" rel="next">
+<link href="./4_Using_the_Capability_Architecture.html" rel="next">
+<link href="./2_Introduction.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -84,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesObjectives.html">MITA Artifacts &amp; Templates</a></li><li class="breadcrumb-item"><a href="./conops.html"><span class="chapter-title">CONOPS</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./1_Document_Overview.html">MITA 4.0 Companion Guide</a></li><li class="breadcrumb-item"><a href="./3_Develop_Capability_Architecture_Process.html"><span class="chapter-title">Develop Capability Architecture Process</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -231,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Develop_Capability_Architecture_Process.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Develop Capability Architecture Process</span></a>
+  <a href="./3_Develop_Capability_Architecture_Process.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Develop Capability Architecture Process</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -341,7 +342,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conops.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">CONOPS</span></a>
+  <a href="./conops.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">CONOPS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -415,15 +416,43 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#define-architectural-approach" id="toc-define-architectural-approach" class="nav-link active" data-scroll-target="#define-architectural-approach">Define Architectural Approach</a>
+  <ul class="collapse">
+  <li><a href="#define-business-architecture-approach" id="toc-define-business-architecture-approach" class="nav-link" data-scroll-target="#define-business-architecture-approach">Define Business Architecture Approach</a></li>
+  <li><a href="#define-information-architecture-approach" id="toc-define-information-architecture-approach" class="nav-link" data-scroll-target="#define-information-architecture-approach">Define Information Architecture Approach</a></li>
+  </ul></li>
+  <li><a href="#develop-baseline-capability-architecture" id="toc-develop-baseline-capability-architecture" class="nav-link" data-scroll-target="#develop-baseline-capability-architecture">Develop Baseline Capability Architecture</a>
+  <ul class="collapse">
+  <li><a href="#develop-baseline-capability-business-architecture" id="toc-develop-baseline-capability-business-architecture" class="nav-link" data-scroll-target="#develop-baseline-capability-business-architecture">Develop Baseline Capability Business Architecture</a></li>
+  <li><a href="#develop-baseline-capability-information-architecture" id="toc-develop-baseline-capability-information-architecture" class="nav-link" data-scroll-target="#develop-baseline-capability-information-architecture">Develop Baseline Capability Information Architecture</a></li>
+  <li><a href="#develop-baseline-capability-technical-architecture" id="toc-develop-baseline-capability-technical-architecture" class="nav-link" data-scroll-target="#develop-baseline-capability-technical-architecture">Develop Baseline Capability Technical Architecture</a></li>
+  </ul></li>
+  <li><a href="#define-target-capability-architecture" id="toc-define-target-capability-architecture" class="nav-link" data-scroll-target="#define-target-capability-architecture">Define Target Capability Architecture</a>
+  <ul class="collapse">
+  <li><a href="#develop-target-capability-business-architecture" id="toc-develop-target-capability-business-architecture" class="nav-link" data-scroll-target="#develop-target-capability-business-architecture">Develop Target Capability Business Architecture</a></li>
+  <li><a href="#develop-target-capability-information-architecture" id="toc-develop-target-capability-information-architecture" class="nav-link" data-scroll-target="#develop-target-capability-information-architecture">Develop Target Capability Information Architecture</a></li>
+  <li><a href="#develop-target-capability-technical-architecture" id="toc-develop-target-capability-technical-architecture" class="nav-link" data-scroll-target="#develop-target-capability-technical-architecture">Develop Target Capability Technical Architecture</a></li>
+  </ul></li>
+  <li><a href="#align-architecture-compile-concept-of-operations" id="toc-align-architecture-compile-concept-of-operations" class="nav-link" data-scroll-target="#align-architecture-compile-concept-of-operations">Align Architecture &amp; Compile Concept of Operations</a></li>
+  <li><a href="#perform-gap-analysis" id="toc-perform-gap-analysis" class="nav-link" data-scroll-target="#perform-gap-analysis">Perform Gap Analysis</a>
+  <ul class="collapse">
+  <li><a href="#perform-business-architecture-gap-analysis" id="toc-perform-business-architecture-gap-analysis" class="nav-link" data-scroll-target="#perform-business-architecture-gap-analysis">Perform Business Architecture Gap Analysis</a></li>
+  <li><a href="#perform-information-architecture-gap-analysis" id="toc-perform-information-architecture-gap-analysis" class="nav-link" data-scroll-target="#perform-information-architecture-gap-analysis">Perform Information Architecture Gap Analysis</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesObjectives.html">MITA Artifacts &amp; Templates</a></li><li class="breadcrumb-item"><a href="./conops.html"><span class="chapter-title">CONOPS</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./1_Document_Overview.html">MITA 4.0 Companion Guide</a></li><li class="breadcrumb-item"><a href="./3_Develop_Capability_Architecture_Process.html"><span class="chapter-title">Develop Capability Architecture Process</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">CONOPS overview</span></h1>
+<h1 class="title"><span class="chapter-title">Develop Capability Architecture Process</span></h1>
 </div>
 
 
@@ -452,9 +481,187 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Placeholder content for CONOPS overview</em></p>
+<section id="define-architectural-approach" class="level2">
+<h2 class="anchored" data-anchor-id="define-architectural-approach">Define Architectural Approach</h2>
+<section id="define-business-architecture-approach" class="level3">
+<h3 class="anchored" data-anchor-id="define-business-architecture-approach">Define Business Architecture Approach</h3>
+<p>TBD</p>
+</section>
+<section id="define-information-architecture-approach" class="level3">
+<h3 class="anchored" data-anchor-id="define-information-architecture-approach">Define Information Architecture Approach</h3>
+<p><strong>Purpose</strong><br>
+The Define Information Architecture Approach business process defines the activities undertaken by State Medicaid Agency (SMA) to define the information architecture reference models, viewpoints and tools that will be used to describe the information architecture for a specific capability.</p>
+<p><strong>Objectives</strong></p>
+<ul>
+<li>Identify the Information Architecture Reference Models and Viewpoints to best meet the SMA’s desired outcomes</li>
+<li>Select the tools that will be used to develop the information architecture views</li>
+</ul>
+<p><strong>Key Inputs</strong></p>
+<ul>
+<li>SMA Outcomes</li>
+<li>Capability Definition</li>
+<li>Capability Stakeholder Roles Identified</li>
+</ul>
+<p><strong>Key Outputs</strong></p>
+<ul>
+<li>Information Architecture Reference Models</li>
+<li>Information Architecture Viewpoints</li>
+<li>Information Architecture Modeling Tool</li>
+</ul>
+<p><strong>Roles &amp; Responsibilities</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Role</th>
+<th>Responsibility</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Data Owner</td>
+<td>Accountable</td>
+</tr>
+<tr class="even">
+<td>Data Steward</td>
+<td>Consulted</td>
+</tr>
+<tr class="odd">
+<td>Data Architect</td>
+<td>Responsible</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Steps</strong></p>
+<ol type="1">
+<li>Select required MITA and SMA specific viewpoints<br>
+</li>
+<li>Determine overall modeling process<br>
+</li>
+<li>Identify required catalogs of data building blocks<br>
+</li>
+<li>Identify required matrices<br>
+</li>
+<li>Identify required diagrams<br>
+</li>
+<li>Identify types of requirements to be collected<br>
+</li>
+<li>Select required MITA and SMA specific reference models<br>
+</li>
+<li>Select required information architecture modeling tools</li>
+</ol>
+</section>
+</section>
+<section id="develop-baseline-capability-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="develop-baseline-capability-architecture">Develop Baseline Capability Architecture</h2>
+<section id="develop-baseline-capability-business-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="develop-baseline-capability-business-architecture">Develop Baseline Capability Business Architecture</h3>
+<p>TBD</p>
+</section>
+<section id="develop-baseline-capability-information-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="develop-baseline-capability-information-architecture">Develop Baseline Capability Information Architecture</h3>
+<p>TBD</p>
+</section>
+<section id="develop-baseline-capability-technical-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="develop-baseline-capability-technical-architecture">Develop Baseline Capability Technical Architecture</h3>
+<p>TBD</p>
+</section>
+</section>
+<section id="define-target-capability-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="define-target-capability-architecture">Define Target Capability Architecture</h2>
+<section id="develop-target-capability-business-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="develop-target-capability-business-architecture">Develop Target Capability Business Architecture</h3>
+<p>TBD</p>
+</section>
+<section id="develop-target-capability-information-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="develop-target-capability-information-architecture">Develop Target Capability Information Architecture</h3>
+<p>TBD</p>
+</section>
+<section id="develop-target-capability-technical-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="develop-target-capability-technical-architecture">Develop Target Capability Technical Architecture</h3>
+<p>TBD</p>
+</section>
+</section>
+<section id="align-architecture-compile-concept-of-operations" class="level2">
+<h2 class="anchored" data-anchor-id="align-architecture-compile-concept-of-operations">Align Architecture &amp; Compile Concept of Operations</h2>
+<p>TBD</p>
+</section>
+<section id="perform-gap-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="perform-gap-analysis">Perform Gap Analysis</h2>
+<section id="perform-business-architecture-gap-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="perform-business-architecture-gap-analysis">Perform Business Architecture Gap Analysis</h3>
+<p>TBD</p>
+</section>
+<section id="perform-information-architecture-gap-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="perform-information-architecture-gap-analysis">Perform Information Architecture Gap Analysis</h3>
+<p><strong>Purpose</strong><br>
+The Perform Information Architecture Gap Analysis process defines the activities undertaken by the SMA to identify the gaps between the baseline and target capability information architecture.</p>
+<p><strong>Objectives</strong></p>
+<ul>
+<li>Define information architecture requirements and expectations for the SMA to achieve their desired outcomes</li>
+</ul>
+<p><strong>Key Inputs</strong></p>
+<ul>
+<li>Baseline Capability Information Architecture Views</li>
+<li>Baseline Capability Information Architecture Maturity Scores</li>
+<li>Target Capability Information Architecture Views</li>
+<li>Target Capability Information Architecture Maturity Scores</li>
+</ul>
+<p><strong>Key Outputs</strong></p>
+<ul>
+<li>Gap Analysis Results</li>
+<li>Information Architecture Requirements</li>
+</ul>
+<p><strong>Roles &amp; Responsibilities</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Role</th>
+<th>Responsibility</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Data Architect</td>
+<td>Responsible</td>
+</tr>
+<tr class="even">
+<td>Data Steward</td>
+<td>Consulted</td>
+</tr>
+<tr class="odd">
+<td>Data Owner</td>
+<td>Accountable</td>
+</tr>
+<tr class="even">
+<td>Data Governance Committee</td>
+<td>Consulted</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Steps</strong></p>
+<ol type="1">
+<li>Compare baseline data dictionary to target data elements and identify gaps and reuse opportunities.<br>
+</li>
+<li>Compare baseline data governance roles to target data governance roles and identify gaps and reuse opportunities.<br>
+</li>
+<li>Compare baseline reports and measures to target reports and measures and identify gaps.<br>
+</li>
+<li>Compare baseline reference data to target reference data and identify gaps.<br>
+</li>
+<li>Compare baseline data validation rules to target data validation rules and identify gaps.<br>
+</li>
+<li>Use target data quality measures to assess the quality of the data and identify gaps.<br>
+</li>
+<li>Identify potential data sources and standards.<br>
+</li>
+<li>Compare baseline to target information architecture maturity and identify gaps and opportunities.<br>
+</li>
+<li>Develop information architecture requirements to fill gaps.</li>
+</ol>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -859,10 +1066,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./2_Introduction.html" class="pagination-link" aria-label="Introduction">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Introduction</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./roadmap.html" class="pagination-link" aria-label="Roadmap">
-        <span class="nav-page-text"><span class="chapter-title">Roadmap</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./4_Using_the_Capability_Architecture.html" class="pagination-link" aria-label="Using the Capability Architecture">
+        <span class="nav-page-text"><span class="chapter-title">Using the Capability Architecture</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

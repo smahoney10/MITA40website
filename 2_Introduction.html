@@ -9,7 +9,7 @@
 <meta name="author" content="Your Name">
 <meta name="description" content="MITA 4.0 reference guide">
 
-<title>CONOPS overview – Medicaid Information Technology Architecture</title>
+<title>Introduction – Medicaid Information Technology Architecture</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,7 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./roadmap.html" rel="next">
+<link href="./3_Develop_Capability_Architecture_Process.html" rel="next">
+<link href="./1_Document_Overview.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -84,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesObjectives.html">MITA Artifacts &amp; Templates</a></li><li class="breadcrumb-item"><a href="./conops.html"><span class="chapter-title">CONOPS</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./1_Document_Overview.html">MITA 4.0 Companion Guide</a></li><li class="breadcrumb-item"><a href="./2_Introduction.html"><span class="chapter-title">Introduction</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -226,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./2_Introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Introduction</span></a>
+  <a href="./2_Introduction.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Introduction</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -341,7 +342,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conops.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">CONOPS</span></a>
+  <a href="./conops.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">CONOPS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -415,15 +416,34 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#enterprise-architecture-introduction" id="toc-enterprise-architecture-introduction" class="nav-link active" data-scroll-target="#enterprise-architecture-introduction">Enterprise Architecture Introduction</a>
+  <ul class="collapse">
+  <li><a href="#business-architecture-introduction" id="toc-business-architecture-introduction" class="nav-link" data-scroll-target="#business-architecture-introduction">Business Architecture Introduction</a></li>
+  <li><a href="#information-architecture-introduction" id="toc-information-architecture-introduction" class="nav-link" data-scroll-target="#information-architecture-introduction">Information Architecture Introduction</a></li>
+  <li><a href="#technical-architecture-introduction" id="toc-technical-architecture-introduction" class="nav-link" data-scroll-target="#technical-architecture-introduction">Technical Architecture Introduction</a></li>
+  </ul></li>
+  <li><a href="#goals" id="toc-goals" class="nav-link" data-scroll-target="#goals">Goals</a></li>
+  <li><a href="#outcome" id="toc-outcome" class="nav-link" data-scroll-target="#outcome">Outcome</a></li>
+  <li><a href="#principles" id="toc-principles" class="nav-link" data-scroll-target="#principles">Principles</a>
+  <ul class="collapse">
+  <li><a href="#business-architecture-principles" id="toc-business-architecture-principles" class="nav-link" data-scroll-target="#business-architecture-principles">Business Architecture Principles</a></li>
+  <li><a href="#information-architecture-principles" id="toc-information-architecture-principles" class="nav-link" data-scroll-target="#information-architecture-principles">Information Architecture Principles</a></li>
+  <li><a href="#technical-architecture-principles" id="toc-technical-architecture-principles" class="nav-link" data-scroll-target="#technical-architecture-principles">Technical Architecture Principles</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesObjectives.html">MITA Artifacts &amp; Templates</a></li><li class="breadcrumb-item"><a href="./conops.html"><span class="chapter-title">CONOPS</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./1_Document_Overview.html">MITA 4.0 Companion Guide</a></li><li class="breadcrumb-item"><a href="./2_Introduction.html"><span class="chapter-title">Introduction</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">CONOPS overview</span></h1>
+<h1 class="title"><span class="chapter-title">Introduction</span></h1>
 </div>
 
 
@@ -452,9 +472,77 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Placeholder content for CONOPS overview</em></p>
+<section id="enterprise-architecture-introduction" class="level2">
+<h2 class="anchored" data-anchor-id="enterprise-architecture-introduction">Enterprise Architecture Introduction</h2>
+<section id="business-architecture-introduction" class="level3">
+<h3 class="anchored" data-anchor-id="business-architecture-introduction">Business Architecture Introduction</h3>
+<p>TBD</p>
+</section>
+<section id="information-architecture-introduction" class="level3">
+<h3 class="anchored" data-anchor-id="information-architecture-introduction">Information Architecture Introduction</h3>
+<p><strong>IA Purpose</strong></p>
+<p>IA describes a logical architecture for the Medicaid Enterprise. The primary objectives of an IA are below:</p>
+<ul>
+<li>Align information requirements with Medicaid Enterprise vision and direction.</li>
+<li>Improve system effectiveness.</li>
+<li>Facilitate growth and innovation.</li>
+<li>Lower overall life cycle costs.</li>
+<li>Enable interoperability and data sharing.</li>
+</ul>
+<p>This architecture provides a description of the information strategy, architecture, and data. These descriptions are necessary so that States can use them as guidelines to define the common data needs that will enable the future business processes of their State Medicaid Enterprises.</p>
+<p><strong>IA Scope</strong></p>
+<p>It is imperative for the States to review the Business and Information Architectures together. The MITA IA is a set of information system requirements, derived from the BA and fulfilled by the IA, connecting and aligning these two architectures. They are different views of the integrated enterprise architecture.</p>
+<p>Just as the BA business model has sub‑groupings of business processes called business areas, the IA models have sub‑groupings of information called subject areas. The generic term that MITA uses to describe a business area or subject area is <em>domain</em>. These sub‑groupings allow a portion of the model to be viewable as a whole, or the entire model to be viewable at an overview level, thereby eliminating some complexity involved in understanding a large model. All business areas or domains will align across BA and IA (e.g., the Provider Management business area aligns with the Provider domain in the information model). Each domain supports the others and properly aligns at each major system deployment to minimize redundancy and overlap.</p>
+<p><strong>Roles</strong></p>
+<p>Information architects are responsible for first understanding the BA and then creating and maintaining the IA in alignment with the BA. Solution architects, guided by the information and technical architectural methodologies, work with the business and information architects to maintain this alignment throughout the project. This cooperation continues through full deployment and ongoing operations.</p>
+<p>As States evolve and begin aligning their technology with MITA, they will see a shift from traditional siloed methodologies to an enterprise approach that includes other health and human service‑related systems. This shift results in the engagement of interoperability concepts to replace outdated data warehouse and data distribution methods with data sharing and Cloud Computing concepts.</p>
+</section>
+<section id="technical-architecture-introduction" class="level3">
+<h3 class="anchored" data-anchor-id="technical-architecture-introduction">Technical Architecture Introduction</h3>
+<p>TBD</p>
+</section>
+</section>
+<section id="goals" class="level2">
+<h2 class="anchored" data-anchor-id="goals">Goals</h2>
+<p>Establish a simplified common enterprise architecture framework that SMA’s can use to support the following:</p>
+<ul>
+<li>Ensure that all SMA’s speak a common language</li>
+<li>Avoid lock‑in to proprietary solutions by standardizing on open methods for enterprise architecture</li>
+<li>Save time and money, and utilize resources more effectively</li>
+<li>Achieve demonstrable Return on Investments (ROI)</li>
+<li>Provide a holistic view of an organizational landscape</li>
+<li>Act as a modular scalable framework that enables organizational transformation</li>
+<li>Enable organizations of all sizes across all industries to work off the same standard for enterprise architecture</li>
+</ul>
+</section>
+<section id="outcome" class="level2">
+<h2 class="anchored" data-anchor-id="outcome">Outcome</h2>
+<p>Provide guidance to SMA’s on how to identify the roles, business processes, information and technology needed to support SMA capabilities to meet desired outcomes.</p>
+</section>
+<section id="principles" class="level2">
+<h2 class="anchored" data-anchor-id="principles">Principles</h2>
+<p>TBD</p>
+<section id="business-architecture-principles" class="level3">
+<h3 class="anchored" data-anchor-id="business-architecture-principles">Business Architecture Principles</h3>
+<p>TBD</p>
+</section>
+<section id="information-architecture-principles" class="level3">
+<h3 class="anchored" data-anchor-id="information-architecture-principles">Information Architecture Principles</h3>
+<p><em>Data is an Asset</em><br>
+Statement: Data is an asset that has value to the enterprise and is managed accordingly.<br>
+Rationale: Data is a valuable corporate resource; it has real, measurable value. Accurate, timely data is critical to accurate, timely decisions.</p>
+<p><em>Data is Shared and Fit for Use</em><br>
+Statement: Users have access to the data necessary to perform their duties; therefore, data is shared across enterprise functions and organizations.</p>
+<p><em>Data is Accessible</em><br>
+Statement: Data is accessible for users to perform their functions.</p>
+</section>
+<section id="technical-architecture-principles" class="level3">
+<h3 class="anchored" data-anchor-id="technical-architecture-principles">Technical Architecture Principles</h3>
+<p>TBD</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -859,10 +947,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./1_Document_Overview.html" class="pagination-link" aria-label="Document Overview">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Document Overview</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./roadmap.html" class="pagination-link" aria-label="Roadmap">
-        <span class="nav-page-text"><span class="chapter-title">Roadmap</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./3_Develop_Capability_Architecture_Process.html" class="pagination-link" aria-label="Develop Capability Architecture Process">
+        <span class="nav-page-text"><span class="chapter-title">Develop Capability Architecture Process</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

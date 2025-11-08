@@ -9,7 +9,7 @@
 <meta name="author" content="Your Name">
 <meta name="description" content="MITA 4.0 reference guide">
 
-<title>CONOPS overview – Medicaid Information Technology Architecture</title>
+<title>Using the Capability Architecture – Medicaid Information Technology Architecture</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,7 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./roadmap.html" rel="next">
+<link href="./5_MITA3_vs_4_Architecture_Development_Process.html" rel="next">
+<link href="./3_Develop_Capability_Architecture_Process.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -84,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesObjectives.html">MITA Artifacts &amp; Templates</a></li><li class="breadcrumb-item"><a href="./conops.html"><span class="chapter-title">CONOPS</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./1_Document_Overview.html">MITA 4.0 Companion Guide</a></li><li class="breadcrumb-item"><a href="./4_Using_the_Capability_Architecture.html"><span class="chapter-title">Using the Capability Architecture</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -236,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Using_the_Capability_Architecture.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Using the Capability Architecture</span></a>
+  <a href="./4_Using_the_Capability_Architecture.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Using the Capability Architecture</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -341,7 +342,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conops.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">CONOPS</span></a>
+  <a href="./conops.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">CONOPS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -415,15 +416,23 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#using-the-capability-business-architecture" id="toc-using-the-capability-business-architecture" class="nav-link active" data-scroll-target="#using-the-capability-business-architecture">Using the Capability Business Architecture</a></li>
+  <li><a href="#using-the-capability-information-architecture" id="toc-using-the-capability-information-architecture" class="nav-link" data-scroll-target="#using-the-capability-information-architecture">Using the Capability Information Architecture</a></li>
+  <li><a href="#using-the-capability-technical-architecture" id="toc-using-the-capability-technical-architecture" class="nav-link" data-scroll-target="#using-the-capability-technical-architecture">Using the Capability Technical Architecture</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./outcomesObjectives.html">MITA Artifacts &amp; Templates</a></li><li class="breadcrumb-item"><a href="./conops.html"><span class="chapter-title">CONOPS</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./1_Document_Overview.html">MITA 4.0 Companion Guide</a></li><li class="breadcrumb-item"><a href="./4_Using_the_Capability_Architecture.html"><span class="chapter-title">Using the Capability Architecture</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">CONOPS overview</span></h1>
+<h1 class="title"><span class="chapter-title">Using the Capability Architecture</span></h1>
 </div>
 
 
@@ -452,9 +461,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Placeholder content for CONOPS overview</em></p>
+<section id="using-the-capability-business-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="using-the-capability-business-architecture">Using the Capability Business Architecture</h2>
+<p>TBD</p>
+</section>
+<section id="using-the-capability-information-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="using-the-capability-information-architecture">Using the Capability Information Architecture</h2>
+<p>The IA provides a conceptual and logical view of all of the data commonly used throughout the Medicaid Enterprise. It describes the integrated information requirements of the Medicaid Enterprise using general data objects and relationships.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Architecture is the primary tool for strategic planning, communicating information requirements, implementing integrated systems, and providing an integrated information strategy.</li>
+<li>The Medicaid Enterprise data model layer connects reusable business concepts to application‑level views of enterprise data through generalized content.</li>
+<li>States use the Logical Data Model (LDM) to build Logical Application Data Models, including state‑specific adaptations and extensions.</li>
+<li>Architects build application data models at both logical and physical abstraction levels and reuse data objects defined at the enterprise level, ensuring common keys, attributes, and definitions.</li>
+<li>The IA guides States in selecting a data management strategy that supports interoperability, data sharing, and cloud‑based solutions.</li>
+</ul>
+</section>
+<section id="using-the-capability-technical-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="using-the-capability-technical-architecture">Using the Capability Technical Architecture</h2>
+<p>TBD</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -859,10 +887,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./3_Develop_Capability_Architecture_Process.html" class="pagination-link" aria-label="Develop Capability Architecture Process">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Develop Capability Architecture Process</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./roadmap.html" class="pagination-link" aria-label="Roadmap">
-        <span class="nav-page-text"><span class="chapter-title">Roadmap</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./5_MITA3_vs_4_Architecture_Development_Process.html" class="pagination-link" aria-label="MITA 3.0 vs. 4.0 Architecture Development Process">
+        <span class="nav-page-text"><span class="chapter-title">MITA 3.0 vs.&nbsp;4.0 Architecture Development Process</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
