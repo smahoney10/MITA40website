@@ -550,6 +550,83 @@
     ]
   },
   {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html",
+    "href": "MITA_4.0_Maturity_Reference_Model.html",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "",
+    "text": "Version History\nVersion 0.1 | August 8, 2025",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html#version-history",
+    "href": "MITA_4.0_Maturity_Reference_Model.html#version-history",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "",
+    "text": "Version\nDate\nAuthor\nNotes\n\n\n\n\n0.1\n\nZ. Rioux, S. Lucas\nInitial Release",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html#document-overview",
+    "href": "MITA_4.0_Maturity_Reference_Model.html#document-overview",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "Document Overview",
+    "text": "Document Overview\n\nDocument Purpose\nThe MITA 4.0 Maturity Model Reference document was developed to formalize the framework for the MITA 4.0 Maturity Model and to guide State Medicaid Agencies (SMAs) in assessing their Medicaid Enterprise Systems (MES) maturity.\nThis document will be used to communicate the framework and model and gather feedback from the following:\n\nMITA NextGen Workgroup\n\nSS‑A Workgroup\n\nMITA Governance Board\n\nCMS\n\nMITA 4.0 Pilot Participants\n\n\n\nAudience\nThe primary audience for this document includes but is not limited to:\n\nMITA 4.0 NextGen Members\n\nMITA 4.0 SS‑A Workgroup Members\n\nMITA Governance Board\n\nCMS\n\nMITA 4.0 Pilot Participants",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html#model-overview",
+    "href": "MITA_4.0_Maturity_Reference_Model.html#model-overview",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "Model Overview",
+    "text": "Model Overview\n\nMaturity Model Purpose\nThe MITA Maturity Model (MMM) provides SMAs with a framework to systematically assess, benchmark, and improve processes, capabilities, architecture, and performance. It offers SMAs a clear path to assess maturity, target areas for improvement, and achieve greater efficiency and effectiveness.\n\n\nMaturity Model Goals\n\nAlign with Strategic Objectives: Help ensure capabilities directly support SMA goals.\n\nDrive Standardization, Efficiency, and Consistency: Standardize and streamline processes across a SMA.\n\nEnable Effective Transformation: Enable transformative and higher‑quality outcomes with greater effectiveness and performance.\n\nOptimize Resource Use and Integrate with MES Operations: Maximize impact while minimizing waste.\n\nStrengthen Risk Management: Increase the ability to identify and mitigate risks.\n\nEnable Measurable Progress: Provide measures to track improvement over time.\n\n\n\nMaturity Model Methodology and Guiding Principles\nTo create the MITA 4.0 Maturity Model, the MITA Governance Board initiated a MITA SS‑A Maturity work group tasked with the completion of the following deliverables:\n\nDevelop a MITA 4.0 Maturity Model.\n\nDraft a MITA 4.0 Maturity Model Reference Guide that provides an overview of the MITA 4.0 approach to develop the MMM.\n\nCollaborate with other work groups in development of Maturity Criteria for the MMM based on the MITA 4.0 approach to using the state self‑assessment (SS‑A) to assess the maturity of a capability and how well the SMA performs a capability.\n\nCollaborate with other work groups on the development of a high‑level overview of the MITA 4.0 process to aide in understanding how the MMM and the MITA 4.0 SS‑A will be conducted.\n\n\nPhases\n\nPhase 1 – Initiation (Oct‑Dec 2024): Team formation, purpose definition, and socialization of MITA maturity.\n\nPhase 2 – Fact‑finding and Visioning (Nov‑Jan 2025): Research of &gt;60 industry maturity models, visioning sessions, and draft of a MMM scale.\n\nPhase 3 – Finalize MITA 4.0 Maturity Model (Jun‑Oct 2025): Socialize draft scale, gather feedback, and build out levels and criteria.\n\nPhase 4 – Pilot MMM and Supporting Documentation (Nov 2025‑Mar 2026): Pilot with SMAs, gather feedback, and align with MITA 4.0 goals.\n\nThe MMM team selected The Open Group Architecture Framework (TOGAF) as the baseline model and extended it to meet SMA needs.\nKey retained features:\n\n5 maturity levels.\n\nDescriptive keywords for each level.\n\n“Non‑applicable” rating option.\n\nAssessment at the capability‑area level.\n\nAveraging of maturity scores across capabilities.\n\n\n\n\nMaturity Model Levels and Definitions\n\n\n\nLevel\nName\nDescription\n\n\n\n\n1\nInitial\nCommitment to perform.\n\n\n2\nDeveloping\nAbility to perform.\n\n\n3\nDefined\nThe activities performed.\n\n\n4\nManaged\nAbility to measure and analyze.\n\n\n5\nOptimized\nAbility to implement, improve, and innovate.\n\n\nN/A\nN/A\nNon‑applicable.\n\n\n\n\nLevel Details\n\nLevel 1 (Initial): Processes are unstructured, reactive, and inconsistent.\n\nLevel 2 (Developing): Basic processes exist, some standardization, metrics collected.\n\nLevel 3 (Defined): Processes fully implemented, documented, and aligned; metrics actively monitored.\n\nLevel 4 (Managed): Processes operational, consistent, and performance‑driven; organization acts as a thought‑leader.\n\nLevel 5 (Optimized): Data‑driven strategies, predictive decision‑making, continuous improvement, nationally recognized.",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html#using-the-mita-maturity-model-in-the-mita-4.0-framework",
+    "href": "MITA_4.0_Maturity_Reference_Model.html#using-the-mita-maturity-model-in-the-mita-4.0-framework",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "Using the MITA Maturity Model in the MITA 4.0 Framework",
+    "text": "Using the MITA Maturity Model in the MITA 4.0 Framework\n\nBackground on MITA 4.0 Capabilities and the Capability Reference Model\nA capability is an ability that an SMA possesses or seeks to develop to achieve its goals. In MITA 4.0 each capability is composed of:\n\nOutcomes – Desired results.\n\nRoles – Responsible individuals.\n\nBusiness Processes – Activities performed.\n\nInformation – Data and information needed.\n\nTechnology – Tools that automate the capability.\n\nThe Capability Reference Model groups capabilities into:\n\nCapability Domain – High‑level grouping.\n\nCapability Area – Detailed sub‑capabilities.\n\n(Figure omitted – see original document for visual.)\n\n\n\nMITA 4.0 Capabilities and Maturity Assessment\nThe state self‑assessment (SS‑A) evaluates maturity of each capability area using the ORBIT framework (Outcomes, Roles, Business processes, Information, Technology).",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html#maturity-criteria",
+    "href": "MITA_4.0_Maturity_Reference_Model.html#maturity-criteria",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "Maturity Criteria",
+    "text": "Maturity Criteria\n\nOutcomes (optional)\n\n\n\n\n\n\n\n\n\n\n\n\nLevel\nCulture & Mindset\nCapability\nQuality & Consistency\nAlignment to Goals\nUse of Metrics\nReusability & Integration\n\n\n\n\n1 – Initial\nNo culture of outcomes\nNo internal capability\nAmbiguous, inconsistent\nNot aligned\nNo measurement\nNo reuse\n\n\n2 – Developing\nEmerging awareness\nBasic understanding, vendor‑led\nSome structure, not fully SMART\nEmerging alignment\nInterest but not aligned\nLimited reuse\n\n\n3 – Defined\nIntentional alignment\nSufficient experience, oversight\nDefined approach, variable quality\nIntentional alignment\nRegular reference\nSome reuse\n\n\n4 – Managed\nSystematic, consistent\nFully capable internally\nWell‑established, actionable\nSystematic alignment\nRegular evaluation\nConsistent reuse\n\n\n5 – Optimizing\nEmbedded, high‑quality\nDeep expertise, self‑sufficient\nHigh‑quality, standardized\nSeamless alignment\nEmbedded in continuous improvement\nSeamless reuse\n\n\n\n\n\nRoles (optional)\n(Similar table omitted for brevity – see original document for full details.)\n\n\nBusiness Architecture and Performance of Business Processes\n(Content omitted – see original document.)\n\n\nInformation and Data\n(Content omitted – see original document.)\n\n\nTechnology\n(Content omitted – see original document.)",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "MITA_4.0_Maturity_Reference_Model.html#using-personas-to-describe-maturity-levels",
+    "href": "MITA_4.0_Maturity_Reference_Model.html#using-personas-to-describe-maturity-levels",
+    "title": "MITA 4.0 Maturity Reference Model Document",
+    "section": "Using Personas to describe Maturity Levels",
+    "text": "Using Personas to describe Maturity Levels\nMITA 4.0 adds personas to make maturity levels relatable and actionable. Personas help:\n\nImprove Communication: Turn abstract concepts into stories.\n\nSupport Planning & Decision‑Making: Align organizations with a persona to plan steps toward the next level.\n\n(Figure omitted – see original document.)\n\nEnd of document.",
+    "crumbs": [
+      "MITA Maturity Model",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Maturity Reference Model</span>"
+    ]
+  },
+  {
     "objectID": "roles.html",
     "href": "roles.html",
     "title": "Roles",
@@ -557,7 +634,7 @@
     "text": "Placeholder content for Roles.",
     "crumbs": [
       "MITA Maturity Model",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Roles</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Roles</span>"
     ]
   },
   {
@@ -568,18 +645,18 @@
     "text": "Placeholder content",
     "crumbs": [
       "MITA Maturity Model",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Business Architecture Maturities</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Business Architecture Maturities</span>"
     ]
   },
   {
-    "objectID": "ia.html",
-    "href": "ia.html",
-    "title": "Information Architecture Maturities",
+    "objectID": "InformationArchitectureCriteria.html",
+    "href": "InformationArchitectureCriteria.html",
+    "title": "Information Architecture Criteria",
     "section": "",
-    "text": "Placeholder content",
+    "text": "Summary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCount of Crieria Name\nColumn Labels\nRow Labels\nLevel 1\nLevel 2\nLevel 3\nLevel 4\nLevel 5\n#N/A\nGrand Total\n\n\n\n\nBusiness Intelligence & Data Science\n2\n2\n1\n1\n1\n\n\n\n7\n\n\nData Architecture, Modeling & Design\n1\n1\n4\n1\n1\n\n\n\n8\n\n\nData Governance\n2\n1\n3\n2\n5\n\n\n\n13\n\n\nData Integration & Interoperability\n1\n1\n1\n1\n1\n\n\n\n5\n\n\nData Quality\n2\n1\n2\n2\n2\n\n\n\n9\n\n\nData Security & Privacy\n\n1\n1\n1\n1\n\n\n\n4\n\n\nData Storage & Warehousing\n\n\n2\n1\n1\n\n\n\n4\n\n\nDocument & Content\n1\n1\n2\n1\n1\n\n\n\n6\n\n\nMaster Data Management\n2\n\n1\n1\n1\n\n\n\n5\n\n\nMetadata Management\n1\n1\n\n1\n1\n\n\n\n4\n\n\nReference Data Management\n1\n1\n2\n1\n1\n\n\n\n6\n\n\n(blank)\n\n\n\n\n\n3\n3\n\n\n\n\nGrand Total\n13\n10\n19\n13\n16\n3\n74\n\n\n\n\n\n\n\nCriteria\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaturity Level\nCrieria Name\nCriteria\nQuestion\nRationale\nRelated Activity (ies)\nType\nCategory\nData Management Capability\nArchitecture\nSuggested Validation Method\nSuggested Evidence\n\n\n\n\nLevel 1\nData Asset Identification\nThe data assets that are used to support the capability have been identified.\nHas the SMA identified all of the data assets that are used to support the capability business processes?\nEnsures all data resources are accounted for and managed effectively.\n\nInitial\n\nMetadata Management\nInformation Architecture\n\n\n\n\nLevel 1\nData Exchange Identification\nThe data exchanges that support the capability have been defined and documented.\nHas the SMA identified and documented the data exchanges that currently support the capability business processes?\nEnables effective management and governance of data flows between systems.\n\nInitial\n\nData Integration & Interoperability\nInformation Architecture\n\n\n\n\nLevel 1\nData Issues & Anomaly Identification\nKnown data anomalies and issues that impact the data assets have been identified, documented and are tracked.\nHas the SMA identified and documented the data anomalies and issues that impact the identified data asset(s)?\nEnables proactive resolution and monitoring of data quality issues, ensuring reliability and accuracy.\n\nInitial\n\nData Quality\nInformation Architecture\n\n\n\n\nLevel 1\nData Management Need Identification\nAll associated data needs have been identified using data management capabilities.\nHas the SMA defined the data management needs for the capability business processes?\nAligns data management activities with organizational objectives and stakeholder requirements.\n\nInitial\nDefinition\nData Governance\nInformation Architecture\n\n\n\n\nLevel 1\nData Profiling\nThe data assets that are used to support the capability have been profiled.\nHas the SMA performed a data profile for the identified data assets?\nProvides insight into data quality, structure, and content to support informed data management decisions.\n\nInitial\n\nData Quality\nInformation Architecture\n\n\n\n\nLevel 1\nDocument Identification\nThe documents that are needed to support the capability have been identified.\nHas the SMA identified the documents that are needed to support the capability business processes?\nSupports complete documentation and knowledge\n\nInitial\nDocument & Content\nInformation Architecture\n\n\n\n\n\nLevel 1\nInformation Identification\nThe associated concepts that are needed to support the capability has been identified.\nHas the SMA identified the key data concepts that are needed to support the target capability business processes?\nEnsures that all necessary information is available to fulfill capability requirements.\n\nInitial\nData Architecture, Modeling & Design\nInformation Architecture\n\n\n\n\n\nLevel 1\nMaster Data Modeling\nMaster data approach (e.g. Master Data Rules) have been identified and implemented for the associated data.\nHas the SMA\nEnsures consistent definition, management, and use of master data entities.\n\nInitial\n\nMaster Data Management\nInformation Architecture\n\n\n\n\nLevel 1\nMaster Data Source Identification\nMaster data sources, producers and consumers have been identified for the associated data.\nHas the SMA identified the impacted data sources and producers for the Master Data needed to support the target capability business processes?\nSupports effective master data management and integration.\n\nInitial\n\nMaster Data Management\nInformation Architecture\n\n\n\n\nLevel 1\nMeasure Identification\nAll measures and metrics needed to support reporting on the capability have been identified.\nHas the SMA identified the measures and metrics that are needed to support reporting for the capability business processes?\nEnsures that all relevant metrics are tracked for effective performance management.\n\nInitial\n\nBusiness Intelligence & Data Science\nInformation Architecture\n\n\n\n\nLevel 1\nReference Data Identification\nThe reference data included in the data asset has been defined and documented.\nHas the SMA identified the reference data that are needed to support the capability business processes?\nSupports data consistency and effective use of reference data across systems.\n\nInitial\n\nReference Data Management\nInformation Architecture\n\n\n\n\nLevel 1\nReport Identification\nAll reports that are needed to support the capability have been identified.\nHas the SMA identified the reports that are needed to be produced to support the capability business processes?\nGuarantees reporting requirements are understood and supported by the data.\n\nInitial\n\nBusiness Intelligence & Data Science\nInformation Architecture\n\n\n\n\nLevel 1\nTerm & Acronym Identification\nThe associated business terms and acronyms have been defined.\nHas the SMA defined the key business terms and acronyms that are used to support the capability business processes?\nReduces ambiguity and ensures common understanding of key terms across the enterprise.\n\nInitial\nDefinition\nData Governance\nInformation Architecture\nArtifact Review\nBusiness Glossary\n\n\nLevel 2\nContent Taxonomy Identification\nA content taxonomy structure has been developed to organize the content needed to support the capability.\nHas the SMA developed a content taxonomy for organizing and storing content and document images to support the capability business processes?\nEnables consistent organization, discovery, and management of content across the enterprise.\n\nDeveloping\nDocument & Content\nInformation Architecture\n\n\n\n\n\nLevel 2\nData Definition Development\nAll data stored in the associated data assets (e.g. Data Files, Database) have been defined and documented.\nHas the SMA created detailed data dictionaries to support the capability business processes?\nEnsures clear understanding and consistent use of data across the organization.\nCatalog known data assets\nDeveloping\nDefinition\nMetadata Management\nInformation Architecture\nArtifact Review\nData Dictionary / Data Catalog\n\n\nLevel 2\nData Lineage Development\nThe lineage, including data transformations, of the associated data assets have been documented and tracked.\nHas the SMA documented the lineage of the data assets that are used to support the capability business processes?\nSupports traceability, impact analysis, and data governance efforts.\n\nDeveloping\nDefinition\nData Governance\nInformation Architecture\n\n\n\n\nLevel 2\nData Security Classifications\nData security and privacy classifications have been applied to all associated data\nHas the SMA identified and applied security and privacy classifications to the data assets that are used to support the capabuility business processes?\nProtects sensitive information and ensures compliance with privacy regulations.\n\nDeveloping\nDefinition\nData Security & Privacy\nInformation Architecture\n\n\n\n\nLevel 2\nData Validation Rule Definition\nData validation rules have been defined and implemented for the associated data.\nHas the SMA defined and implemented data validation rules for the data assets that are used to support the capability business processes?\nEnsures that the SMA is validating that data is fit for use as it is collected/created.\n\nDeveloping\nDefinition\nData Quality\nInformation Architecture\n\n\n\n\nLevel 2\nEnterprise Data Reference Model Identification\nEnterprise data reference models (MITA DRM, Conceptual, Logical) have been identified.\nHas the SMA identified and/or developed enterprise data reference models to support the capability business processes?\nEstablishes a foundation for consistent data definitions and interoperability.\n\nDeveloping\n\nData Architecture, Modeling & Design\nInformation Architecture\n\n\n\n\nLevel 2\nMeasure Definition\nAll measure specifications that are included in the reports have been defined, mapped to the corresponding data elements and are under formal control by the SMA.\nHas the SMA developed detailed measure specifications for all measures that are needed to support the reports used for the capability business processes?\nEnsures measures are consistent, reliable, and traceable to source data.\n\nDeveloping\n\nBusiness Intelligence & Data Science\nInformation Architecture\n\n\n\n\nLevel 2\nReport Definition\nAll reports that are needed to support the business have been defined, published and accessible to authorized stakeholders.\nHas the SMA defined and published the reports that are used for the capability business processes?\nEnsures reporting needs are met and information is readily available for decision-making.\n\nDeveloping\n\nBusiness Intelligence & Data Science\nInformation Architecture\n\n\n\n\nLevel 2\nStructure Data Standards Identification\nAll required structural data standards have been identified and aligned to associated data structures.\nHas the SMA defined and aligned the structural data standards that are needed to support the capability business processes?\nEnsures data structures are consistent and interoperable across systems and processes.\n\nDeveloping\n\nData Integration & Interoperability\nInformation Architecture\n\n\n\n\nLevel 2\nVocabulary Data Standard Identification\nAll required vocabulary/reference data standards have been identified and aligned to associated reference data.\nHas the SMA defined and aligned the vocabulary/reference data standards that are needed to support the capabilkity business processes?\nPromotes standardization and interoperability by using common terminology and code sets.\n\nDeveloping\n\nReference Data Management\nInformation Architecture\n\n\n\n\n… (additional rows omitted for brevity)\n\n\n\n\n\n\n\n\n\n\n\n\n\nLevel 5\nData Security & Privacy Maturity Improvement\nImprovement plans have been developed and implemented to address gaps in the SMA’s data security & privacy maturity and the impacted data is aligned to the enterprise vision for improving data security & privacy.\nDoes the SMA regularly identify and implement data security & privacy management improvement plans based on maturity/performance gaps that improve data security & privacy management for the impacted capability business processes?\nStrengthens protection of sensitive data and compliance with privacy regulations.\n\nOptimizing\nData Security & Privacy\nInformation Architecture\n\n\n\n\n\n\nNote: Only a subset of rows is shown; the full sheet can be added similarly.\n\n\nReference\n\n\n\n\n\n\n\n\n\n\n\nColumn\nDescription\nType\nDescription\nMaturity Level\nData Description\n\n\n\n\nMaturity Level\nIdentifies the lowest maturity level that the criteria applies to.\n\nInitial\nSMA is in a planning phase, readying the agency to support adoption of enterprise‑wide planning efforts to improve SMA program delivery, yet no structured documentation or standards exist to support planning activities.\n\n\n\nCrieria Name\nIdentifies a unique name for the criteria.\n\nDeveloping\nSMA meets or is working toward meeting required MES regulations (e.g. CFRs) and supporting guidance (i.e. SHO, SMD). SMA has formalized and begun adopting MES industry‑recognized planning (i.e. MITA, PMBOK) and architectural frameworks (i.e. MITA, TOGAF, CMMI).\n\n\n\nCriteria\nIdentifies the specific criteria that must be met in order to be assessed at the defined maturity level.\n\nDefinition\nSMA MES is compliant with required regulations (e.g. CFRs) and supporting guidance (i.e. SHO, SMD). SMA’s MES has adopted and is managing to industry‑recognized planning and architectural models allowing for transparency between their SS‑A, MES Roadmaps, MES Concepts of Operations (COOs), Advanced Planning Documents (APDs), architectural frameworks, and reference models.\n\n\n\nType\nIdentifies a category that groups similar types of criteria.\n\nManaged\nSMA MES maintains federal compliance, adheres to their planning and architectural models, and manages MES performance to achieve agency’s vision, goals, and objectives.\n\n\n\nRationale\nIdentifies the rationale for how the criteria supports the SMA and/or CMS.\n\nOptimizing\nSMA MES maintains federal compliance, adheres to their planning and architectural models, and manages MES performance. SMA teams use iterative methodologies (e.g., Agile) to manage and enhance their MES planning and architectural efforts to help achieve agency’s desired vision, goals, and objectives.\n\n\n\nRelated Activity\nIdentifies the activity that should be performed to meet this activity\n\n\n\n\n\n\nArchitecture\nidentifies the architecture that applies to the criteria.\n\n\n\n\n\n\nSuggested Validation Method\nIdentifies a method for validating that the criteria has been met.\n\n\n\n\n\n\nSuggested Evidence\nIdentifies the artifact or other items that can be used to validate that the criteria has been met.\n\n\n\n\n\n\n\n\n\nAssignments\n\n\n\n\n\n\n\n\n\nData Exchange\nData Architecture Modeling\nMaster Data Management\nData Governance\n\n\n\n\nRichard\nRichard\nJeff\nDwayne\n\n\n\n\n\nData Role Reference Model\n\n\n\nRole\nDescription\n\n\n\n\nData Owner\n\n\n\nBusiness Data Steward\n\n\n\nTechnical Data Steward\n\n\n\nData Governance Steering Committee\n\n\n\nData Custodian\n\n\n\nData Modeler\n\n\n\nData Architect",
     "crumbs": [
       "MITA Maturity Model",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Information Architecture Maturities</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Information Architecture Maturities</span>"
     ]
   },
   {
@@ -590,7 +667,7 @@
     "text": "Placeholder content",
     "crumbs": [
       "MITA Maturity Model",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Technical Architecture Maturities</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Technical Architecture Maturities</span>"
     ]
   },
   {
@@ -601,7 +678,7 @@
     "text": "Placeholder content for CONOPS overview",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>CONOPS</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>CONOPS</span>"
     ]
   },
   {
@@ -612,7 +689,7 @@
     "text": "Placeholder content for Roadmap.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Roadmap</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Roadmap</span>"
     ]
   },
   {
@@ -623,7 +700,7 @@
     "text": "Placeholder content for MITA Scorecard.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>MITA Scorecard</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>MITA Scorecard</span>"
     ]
   },
   {
@@ -634,7 +711,7 @@
     "text": "Guidance for generating and submitting MITA SS-A results (Scorecards) to CMS in the correct format",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>SS-A Output Format</span>"
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>SS-A Output Format</span>"
     ]
   },
   {
@@ -645,7 +722,7 @@
     "text": "Template (fill in all placeholders as applicable)\nMITA Assessment Results\nState: [State Name]\nSystem: [System Name]\n\nAssessment Information\nAssessment ID: [Assessment ID]\nCreated: [MMM DD, YYYY, HH:MM AM/PM]\nLast Updated: [MMM DD, YYYY, HH:MM AM/PM]\nStatus: [Status]\nCompletion: [Percent%]\nExported: [MMM DD, YYYY, HH:MM AM/PM]\nExport Version: [Version]\nLast Saved: [MMM DD, YYYY, HH:MM AM/PM]\n\nSummary Statistics\nOverall Average Score [Value] out of 5.0\nCapability Areas Assessed [X] of [Y]\nDomains Covered [Number]\nAssessment Completion [Percent%]\n\nCapability Assessment Summary\nDomain [Domain Name] Capability Area [Capability Area Name] Overall Score [Value] Base Level [Value] Bonus Outcome +[Value] Role [Value] Business Process [Value] Information [Value] Technology [Value]\nDomain [Domain Name] Capability Area [Capability Area Name] Overall Score [Value] Base Level [Value] Bonus Outcome +[Value] Role [Value] Business Process [Value] Information [Value] Technology [Value]\nDomain [Domain Name] Capability Area [Capability Area Name] Overall Score [Value] Base Level [Value] Bonus Outcome +[Value] Role [Value] Business Process [Value] Information [Value] Technology [Value]\n\nMITA Assessment Export - [State Name] Page 1 of [Total Pages] Generated: [MMM DD, YYYY, HH:MM AM/PM]\n\nDetailed Assessment Results\nDomain: [Domain Name]\n\n[Capability Area Name]\nOverall Score: [Value] out of 5.0\nBase Level: [Value], Bonus: +[Value]\nOutcomes:\nLevel [Level], Final Score: [Value] (Level [Level] + [Bonus Detail])\nCheckbox Completion: [Checked]/[Total] ([Percent%])\nRoles:\nLevel [Level], Final Score: [Value]\nBusiness Process:\nLevel [Level], Final Score: [Value]\nInformation:\nLevel [Level], Final Score: [Value]\nTechnology:\nLevel [Level], Final Score: [Value]\n\nMITA Assessment Export - [State Name] Page [2] of [Total Pages] Generated: [MMM DD, YYYY, HH:MM AM/PM]\n\n[Repeat the Detailed Assessment Results block above for each capability area under the domain.]\n\nMITA Assessment Export - [State Name] Page [3] of [Total Pages] Generated: [MMM DD, YYYY, HH:MM AM/PM]\n\nNotes\n\nUse the exact section titles and field labels shown above.\nInclude page footers with page numbers and the generated timestamp on each page.\nMaintain the “out of 5.0” notation where scores are reported.\nPopulate Role, Business Process, Information, and Technology fields for each capability area as shown.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>SS-A Output Format</span>"
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>SS-A Output Format</span>"
     ]
   },
   {
@@ -656,7 +733,7 @@
     "text": "Placeholder content for Open-Source SS-A Tool.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Open-Source SS-A Tool</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Open-Source SS-A Tool</span>"
     ]
   }
 ]
