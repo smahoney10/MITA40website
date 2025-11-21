@@ -224,7 +224,7 @@
     "href": "DefineCapArch.html",
     "title": "Step 3: Identify Roles, Process, Information, Technology",
     "section": "",
-    "text": "Define Capability Architecture\n\n\n\nSource\nhttps://mitre.app.box.com/file/2001074303896?s=frg0y7grikal4opulpwgud7qv7z3vjm7",
+    "text": "Define Capability Architecture\n\n\n\nGuidance\nUse the MITA Companion Guide to define your Capability Architecture",
     "crumbs": [
       "MITA 4.0 Process",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Identify Business, Roles, Information and Technology</span>"
@@ -541,9 +541,9 @@
   {
     "objectID": "TAReferenceModel.html",
     "href": "TAReferenceModel.html",
-    "title": "MITA TA Capability Model",
+    "title": "About",
     "section": "",
-    "text": "Placeholder content",
+    "text": "MITA TA Capability Model\n\nPlaceholder content\n\n\nTA Domain Area Descriptions\n\n\n\n\n\n\n1\n\n\nInfrastructure\n\n\nThe core technology environment   that Medicaid systems run on - including cloud, servers, storage, and   connectivity.\n\n\n\n\n\n\n1.1\n\n\nCompute and Hosting\n\n\nProvides the   servers, containers, and cloud platforms where Medicaid systems and   applications run.\n\n\n\n\n1.2\n\n\nStorage\n\n\nManages where   Medicaid data lives, including files, backups, and archives, ensuring   information is secure, accessible, and retained according to state and   federal laws.\n\n\n\n\n1.3\n\n\nNetworking and Connectivity\n\n\nEnables secure   connections between internal systems, external partners, and cloud   enivronments, ensuring fast, reliable communication between components.\n\n\n\n\n1.4\n\n\nResilience and Scaling\n\n\nIt helps systems   stay online and responsive during outages or emergencies, including failover   mechanisms, load balancing, and disaster recovery capabilities. The ability to scale up and scale down   during peak demand, usage, and traffic spikes.\n\n\n\n\n2\n\n\nIntegration\n\n\nHow Medicaid   systems, modules, and external partners securely share data and coordinate   actions.\n\n\n\n\n2.1\n\n\nAPI and Interface Management\n\n\nManaged the   digital entry points that allow systems to exchange data using common formats   like FHIR, X12, or REST, supporting modular design and partner   interoperability.\n\n\n\n\n2.2\n\n\nSystem Messaging\n\n\nEnables   real-time or scheduled communication between systems, such as sending alerts,   in a consistent and traceable way.\n\n\n\n\n2.3\n\n\nExternal Partner Integration\n\n\nSupports secure,   governed connectivity with MCOs, Providers, CMS, and other state/federal   partners, critical for Medicaid coordination.\n\n\n\n\n3\n\n\nPlatform Services\n\n\nShared   technology services that support core Medicaid functions and are reused   across modules.\n\n\n\n\n3.1\n\n\nApplication Hosting\n\n\nProvides managed   environments for running Medicaid applications, such as platforms for APIs,   microservices, or background tasks, while reducing manual overhead.\n\n\n\n\n3.2\n\n\nBusiness Rules and Workflow\n\n\nLets business or   IT teams define rules (e.g., eligibility logic) and automate multi-step   processes (e.g., Provider Enrollment) without needing to hard-code logic.\n\n\n\n\n3.3\n\n\nCommon Platform Functions\n\n\nOffers reusable   tools, such as notification engines, address verification, or file upload   services, that multiple systems can use instead of rebuilding the same   features.\n\n\n\n\n4\n\n\nApplication Architecture\n\n\nThe structure of   Medicaid software and how people interact with it.\n\n\n\n\n4.1\n\n\nModular Architecture\n\n\nBreaks large   Medicaid systems into smaller, independent components that are easier to   scale and replace.\n\n\n\n\n4.2\n\n\nUser Interfaces\n\n\nDesigns the   screens, portals, and mobile views that users interact with, including   members and providers, while ensuring accessibility and consistency.\n\n\n\n\n4.3\n\n\nSession and State Management\n\n\nKeeps track of   what a user is doing during a session, so they can resume or complete actions   reliably and securely.\n\n\n\n\n5\n\n\nSecurity and Identity\n\n\nHow systems and   data are protected, and how users and systems are granted access.\n\n\n\n\n5.1\n\n\nIdentity and Access Services\n\n\nControls who can   log in, what they can do, and how their identity is verified.\n\n\n\n\n5.2\n\n\nConsent Management\n\n\nCapture, store,   and enforce member consents and data-sharing preferences.\n\n\n\n\n5.3\n\n\nSystem and Data Protection\n\n\nApplies   safeguards like encryption, firewalling, and secure system configurations to   prevent unauthorized access and protect sensitive Medicaid and healthcare   data.\n\n\n\n\n5.4\n\n\nSecurity Monitoring\n\n\nWatches for   unusual activity, logs what is happening, and supports audits. Helps State   Medicaid Agencies meet CMS and NIST security standards (e.g., MARS-E).\n\n\n\n\n6\n\n\nOperations and Monitoring\n\n\nHow Medicaid   systems are monitored, managed, and kept running smoothly.\n\n\n\n\n6.1\n\n\nSystem Monitoring\n\n\nTracks system   health, such as uptime, performance, and availability, through dashboards,   alerts, and automated checks to catch problems early.\n\n\n\n\n6.2\n\n\nSystem Operations\n\n\nProvides   centralized tools that staff use to manage systems, schedule jobs, deploy   updates, and monitor activity across environments.\n\n\n\n\n7\n\n\nDevelopment and Release\n\n\nHow software and   infrastructure are built, tested, released, and secure.\n\n\n\n\n7.1\n\n\nCode and Configuration Management\n\n\nAllows teams to   safely write, track, and manage software changes, and define infrastructure   settings as code to reduce errors and improve consistency.\n\n\n\n\n7.2\n\n\nTesting and Release\n\n\nRuns tests to   catch bugs, and moves code through environments (e.g., Development, Test,   Production) using pipelines that reduce manual steps.\n\n\n\n\n7.3\n\n\nSecurity Compliance\n\n\nBuilds in   security checks and compliance rules at every step of development, ensuring   that code is safe and standards are met before going live.",
     "crumbs": [
       "MITA Reference Models",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Technical Reference Model</span>"
@@ -675,7 +675,7 @@
     "href": "conops.html",
     "title": "CONOPS overview",
     "section": "",
-    "text": "Placeholder content for CONOPS overview",
+    "text": "Placeholder content for CONOPS overview\n\nBA Viewpoints\n\n\nIA Viewpoints\n\n\nTA Viewpoints",
     "crumbs": [
       "MITA Artifacts & Templates",
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>CONOPS</span>"
@@ -689,7 +689,7 @@
     "text": "Placeholder content for Roadmap.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Roadmap</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Roadmap</span>"
     ]
   },
   {
@@ -700,7 +700,7 @@
     "text": "Placeholder content for MITA Scorecard.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>MITA Scorecard</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>MITA Scorecard</span>"
     ]
   },
   {
@@ -711,7 +711,7 @@
     "text": "Guidance for generating and submitting MITA SS-A results (Scorecards) to CMS in the correct format",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>SS-A Output Format</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>SS-A Output Format</span>"
     ]
   },
   {
@@ -722,7 +722,7 @@
     "text": "Template (fill in all placeholders as applicable)\nMITA Assessment Results\nState: [State Name]\nSystem: [System Name]\n\nAssessment Information\nAssessment ID: [Assessment ID]\nCreated: [MMM DD, YYYY, HH:MM AM/PM]\nLast Updated: [MMM DD, YYYY, HH:MM AM/PM]\nStatus: [Status]\nCompletion: [Percent%]\nExported: [MMM DD, YYYY, HH:MM AM/PM]\nExport Version: [Version]\nLast Saved: [MMM DD, YYYY, HH:MM AM/PM]\n\nSummary Statistics\nOverall Average Score [Value] out of 5.0\nCapability Areas Assessed [X] of [Y]\nDomains Covered [Number]\nAssessment Completion [Percent%]\n\nCapability Assessment Summary\nDomain [Domain Name] Capability Area [Capability Area Name] Overall Score [Value] Base Level [Value] Bonus Outcome +[Value] Role [Value] Business Process [Value] Information [Value] Technology [Value]\nDomain [Domain Name] Capability Area [Capability Area Name] Overall Score [Value] Base Level [Value] Bonus Outcome +[Value] Role [Value] Business Process [Value] Information [Value] Technology [Value]\nDomain [Domain Name] Capability Area [Capability Area Name] Overall Score [Value] Base Level [Value] Bonus Outcome +[Value] Role [Value] Business Process [Value] Information [Value] Technology [Value]\n\nMITA Assessment Export - [State Name] Page 1 of [Total Pages] Generated: [MMM DD, YYYY, HH:MM AM/PM]\n\nDetailed Assessment Results\nDomain: [Domain Name]\n\n[Capability Area Name]\nOverall Score: [Value] out of 5.0\nBase Level: [Value], Bonus: +[Value]\nOutcomes:\nLevel [Level], Final Score: [Value] (Level [Level] + [Bonus Detail])\nCheckbox Completion: [Checked]/[Total] ([Percent%])\nRoles:\nLevel [Level], Final Score: [Value]\nBusiness Process:\nLevel [Level], Final Score: [Value]\nInformation:\nLevel [Level], Final Score: [Value]\nTechnology:\nLevel [Level], Final Score: [Value]\n\nMITA Assessment Export - [State Name] Page [2] of [Total Pages] Generated: [MMM DD, YYYY, HH:MM AM/PM]\n\n[Repeat the Detailed Assessment Results block above for each capability area under the domain.]\n\nMITA Assessment Export - [State Name] Page [3] of [Total Pages] Generated: [MMM DD, YYYY, HH:MM AM/PM]\n\nNotes\n\nUse the exact section titles and field labels shown above.\nInclude page footers with page numbers and the generated timestamp on each page.\nMaintain the “out of 5.0” notation where scores are reported.\nPopulate Role, Business Process, Information, and Technology fields for each capability area as shown.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>SS-A Output Format</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>SS-A Output Format</span>"
     ]
   },
   {
@@ -733,7 +733,18 @@
     "text": "Placeholder content for Open-Source SS-A Tool.",
     "crumbs": [
       "MITA Artifacts & Templates",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Open-Source SS-A Tool</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Open-Source SS-A Tool</span>"
+    ]
+  },
+  {
+    "objectID": "MITA30.html",
+    "href": "MITA30.html",
+    "title": "Medicaid Information Technology Architecture Framework",
+    "section": "",
+    "text": "Medicaid Information Technology Architecture (MITA) 3.0 was the previous major release of MITA, a Center for Medicare and Medicaid Services (CMS) initiative that fosters an integrated business and information technology (IT) transformation across the Medicaid enterprise in an effort to improve the administration and operation of the Medicaid program. This version updates version 2.0 published in 2006 and takes into account the availability of new technologies, such as cloud computing service based architecture. MITA 3.0 also reflects new and recently updated legislation, including:\n\nHealth Information Technology for Economic and Clinical Health Act (HITECH)\nChildren’s Health Insurance Program Reauthorization Act (CHIPRA)\nAffordable Care Act (ACA)\nHealth Insurance Portability and Accountability Act (HIPAA)\n\nThe CMS final rule entitled Medicaid Program: Federal Funding for Medicaid Eligibility Determination and Enrollment Activities (Federal Register Vol. 76, No. 75), effective April 19, 2011, provides states with the authority to receive enhanced federal funding in order to achieve a higher degree of interaction and interoperability across the Medicaid enterprise and the Health Insurance Exchanges and CMS IT Guidance for Exchanges and Medicaid IT systems.\nMITA 3.0 also adds a new section to the framework to assist states in the preparation of the State Self Assessment and Advanced Planning Documents which are used by states to obtain federal financial participation for the costs of IT systems. Framework documentation is provided in the following zip files available for download:\n\nMITA 3.0 Front Matter\nMITA 3.0 Part 1\nMITA 3.0 Part 2\nMITA 3.0 Part 3\nState Self Assessment\nMITA 3.0 BPT Vault\nMITA 3.0 BCM Vault",
+    "crumbs": [
+      "References",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>MITA 3.0</span>"
     ]
   }
 ]
