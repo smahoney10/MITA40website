@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>MITA Capability Model – Medicaid Information Technology Architecture</title>
+<title>IA Capability Model – Medicaid Information Technology Architecture</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./orbit.html" rel="next">
-<link href="./mitaDiffernt.html" rel="prev">
+<link href="./orbit.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -129,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction to MITA 4.0</a></li><li class="breadcrumb-item"><a href="./capabilityOverview.html"><span class="chapter-title">Why Capabilities?</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction to MITA 4.0</a></li><li class="breadcrumb-item"><a href="./capabilityModelIntro.html"><span class="chapter-title">Intro to Capability Models</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -171,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./capabilityOverview.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Why Capabilities?</span></a>
+  <a href="./capabilityOverview.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Why Capabilities?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -181,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./capabilityModelIntro.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intro to Capability Models</span></a>
+  <a href="./capabilityModelIntro.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Intro to Capability Models</span></a>
   </div>
 </li>
       </ul>
@@ -435,15 +434,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#model-objective" id="toc-model-objective" class="nav-link active" data-scroll-target="#model-objective">Model Objective</a></li>
-  <li><a href="#model-definition" id="toc-model-definition" class="nav-link" data-scroll-target="#model-definition">Model Definition</a></li>
-  <li><a href="#mita-3.0-vs.-mita-4.0-capabilities" id="toc-mita-3.0-vs.-mita-4.0-capabilities" class="nav-link" data-scroll-target="#mita-3.0-vs.-mita-4.0-capabilities">MITA 3.0 vs.&nbsp;MITA 4.0 Capabilities</a></li>
-  <li><a href="#model-structure" id="toc-model-structure" class="nav-link" data-scroll-target="#model-structure">Model Structure</a></li>
-  <li><a href="#model-application" id="toc-model-application" class="nav-link" data-scroll-target="#model-application">Model Application</a></li>
-  <li><a href="#model-contents" id="toc-model-contents" class="nav-link" data-scroll-target="#model-contents">Model Contents</a>
+  <li><a href="#introduction-to-business-capability-models" id="toc-introduction-to-business-capability-models" class="nav-link active" data-scroll-target="#introduction-to-business-capability-models">Introduction to Business Capability Models</a>
   <ul class="collapse">
   <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose">Purpose</a></li>
   <li><a href="#update-to-mita-3.0" id="toc-update-to-mita-3.0" class="nav-link" data-scroll-target="#update-to-mita-3.0">Update to MITA 3.0</a></li>
+  </ul></li>
+  <li><a href="#the-mita-definition-of-capability" id="toc-the-mita-definition-of-capability" class="nav-link" data-scroll-target="#the-mita-definition-of-capability">The MITA Definition of Capability</a>
+  <ul class="collapse">
+  <li><a href="#structure-of-the-mita-capability-model" id="toc-structure-of-the-mita-capability-model" class="nav-link" data-scroll-target="#structure-of-the-mita-capability-model">Structure of the MITA Capability Model</a></li>
   <li><a href="#relationship-of-mita-capabilities-to-outcomes" id="toc-relationship-of-mita-capabilities-to-outcomes" class="nav-link" data-scroll-target="#relationship-of-mita-capabilities-to-outcomes">Relationship of MITA Capabilities to Outcomes</a></li>
   </ul></li>
   <li><a href="#capability-mapping" id="toc-capability-mapping" class="nav-link" data-scroll-target="#capability-mapping">Capability Mapping</a>
@@ -460,9 +458,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction to MITA 4.0</a></li><li class="breadcrumb-item"><a href="./capabilityOverview.html"><span class="chapter-title">Why Capabilities?</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction to MITA 4.0</a></li><li class="breadcrumb-item"><a href="./capabilityModelIntro.html"><span class="chapter-title">Intro to Capability Models</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">MITA Capability Model</span></h1>
+<h1 class="title"><span class="chapter-title">IA Capability Model</span></h1>
 </div>
 
 
@@ -479,41 +477,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="model-objective" class="level2">
-<h2 class="anchored" data-anchor-id="model-objective">Model Objective</h2>
-<p>The MITA 4.0 Capability Reference Model is a key component of the MITA 4.0 Framework. The primary objective of the reference model is to support the alignment of capabilities across SMA’s to enable leverage, reuse and interoperability across SMA’s.</p>
-</section>
-<section id="model-definition" class="level2">
-<h2 class="anchored" data-anchor-id="model-definition">Model Definition</h2>
-<p>A capability is defined as an ability that an SMA possesses or seeks to develop to achieve its goals and meet its desired outcomes. It represents what the SMA can do without attempting to explain how, why or where the SMA uses the capability. It may be an ability that may exist within the SMA today or be required to enable a new direction or reach a new desired outcome. Each capability is composed of the following: • Outcomes – The definition of the desired outcomes that require the capability to be achieved. • Roles – The individual roles that are responsible for providing the capability. • Business Processes – The business processes that are performed to deliver the capability. • Information – The information and the data management capabilities that are needed to deliver the capability. • Technology – The technology that is used to automate the capability.</p>
-</section>
-<section id="mita-3.0-vs.-mita-4.0-capabilities" class="level2">
-<h2 class="anchored" data-anchor-id="mita-3.0-vs.-mita-4.0-capabilities">MITA 3.0 vs.&nbsp;MITA 4.0 Capabilities</h2>
-<p>MITA 3.0 defines capabilities as the competence of an individual, organization or system to perform a function or process. The MITA 4.0 framework changes the definition of a capability to not include the concept of competence. The capability in MITA 4.0 focuses only on the ability that an SMA possesses or seeks to develop, agnostic of how well the SMA performs that capability. The purpose of the state self-assessment (SS-A) in MITA 4.0 is to assess the maturity of the capability and how well the SMA performs the capability based on the outcomes, roles, business processes, information and technology that an SMA has defined and implemented to support that capability. The MITA 4.0 capabilities are closely aligned to the following concepts in MITA 3.0: • MITA 3.0 Business Areas and Categories • Technical Service Areas and Classifications</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/30vs40capabilities.png" title="MITA 4.0 vs. MITA 3.0 Capabilities" class="img-fluid figure-img"></p>
-<figcaption>MITA 4.0 vs.&nbsp;MITA 3.0 Capabilities</figcaption>
-</figure>
-</div>
-</section>
-<section id="model-structure" class="level2">
-<h2 class="anchored" data-anchor-id="model-structure">Model Structure</h2>
-<p>A capability reference model is an abstract framework that defines concepts used for grouping capabilities that share a common meaning. It is used to establish a shared definition of capability concepts that cross organizational boundaries and helps to identify opportunities for sharing, leveraging and reuse. The MITA 4.0 Capability Reference Model is designed to identify the key capability concepts that are needed to support the Medicaid Program and achieve the goals and outcomes established for MITA 4.0. The MITA 4.0 Capability Model is grouped into (2) levels including: • Capability Domain - High-level capability used to group common capabilities • Capability Area – Detailed capabilities that decomposes the capability domain into sub-capabilities that can be used by SMA’s to classify their capabilities. There are one to many distinct Capability Areas for each Capability Domain. Each Capability Area can have one to many distinct Capabilities defined within it .</p>
-</section>
-<section id="model-application" class="level2">
-<h2 class="anchored" data-anchor-id="model-application">Model Application</h2>
-<p>SMA’s will use the MITA 4.0 Capability Reference Model to classify their own capabilities. The MITA 4.0 Capability Reference Model provides SMA’s the freedom to define their capabilities based on their own state-specific needs. The SMA’s should use the capability domains and areas in the reference model to classify their state-specific capabilities. Using the reference model enables alignment of capabilities across SMA’s and enables states and CMS the ability to do the following: • Identify opportunities to collaborate, leverage and reuse. • Consistently assess and report capability maturity.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/modelExample.png" title="MITA 4.0 Reference Model Application Example" class="img-fluid figure-img"></p>
-<figcaption>MITA 4.0 Reference Model Application Example</figcaption>
-</figure>
-</div>
-</section>
-<section id="model-contents" class="level2">
-<h2 class="anchored" data-anchor-id="model-contents">Model Contents</h2>
-<p>The capability domains identified in the MITA 4.0 Capability Reference Model are organized into (3) distinct groups including: • Strategic – Identifies capabilities that an SMA possesses or seeks to develop that enable them to establish and maintain its enterprise strategy. • Core – identifies capabilities that an SMA possesses or seeks to develop that enable them to meet its mission and achieve its desired outcomes. • Support – Identifies capabilities that an SMA possesses or seeks to develop that are not specific to its mission but are critical for the core and strategic capabilities.</p>
+<section id="introduction-to-business-capability-models" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-to-business-capability-models">Introduction to Business Capability Models</h2>
+<p>A capability model is a conceptual framework that outlines the key capabilities an organization needs to achieve its strategic objectives. It provides a comprehensive view of what an organization can do and helps identify areas for improvement or investment. In the context of an orchestra, a capability model might help the orchestra identify the set of skills and resources, or other types of capabilities it needs to perform a symphony. Just like an orchestra needs well practiced musicians, sheet music, instruments, a conductor, and an audience to produce a great symphony, a State Medicaid Agency (SMA) needs its Medicaid Enterprise System (MES) to employ or develop specific capabilities to deliver its services effectively, efficiently, and economically to its enrollees and providers.</p>
+<p>The concept of a business capability is extensively used within enterprise architecture modeling and has been broadly used within Business Capability Models as a tool to better align the business strategy and information technology of both private sector and governmental organizations since they emerged in the mid-2000s. One example comes from the TOGAF Standard, a well-known standard in enterprise architecture. Like most architecture frameworks TOGAF defines a capability as something a business can do to meet its goals. This focuses a strategic lens of an organization on “what” it needs to achieve its goals, rather than “how” those goals are achieved. This perspective allows for business planning from different viewpoints, facilitating strategic alignment and operational efficiency.</p>
+<p>SMA business architects, technologists, systems analysts, executives, managers, and program staff can use this same modeling approach to represent the functional components of their Medicaid Enterprise System (MES) in ways that can help reveal gaps in their systems and provide insights on what new or enhanced capabilities might be needed to close those gaps.</p>
+<p>By focusing on capabilities, SMAs can better align their information and technology resources and processes with their strategic business goals, ultimately improving their insight into how to improve the outcomes their Medicaid Enterprise Architecture produces.</p>
 <section id="purpose" class="level3">
 <h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
 <div class="callout callout-style-simple callout-note callout-titled">
@@ -537,12 +506,64 @@ ul.task-list li input[type="checkbox"] {
 <p>MITA 3.0 defined a capability as the level of maturity of a set of business processes within a business category. By focusing on “how” MES operate MITA 3.0 helped SMA’s identify ways to improve and mature their business processes, but it did not link those processes with the outcomes they are intended to achieve or ensure better alignment of the information and technical architectures to business outcomes. The addition of the MITA capability model to the MITA 4.0 business architecture addresses that by providing the conceptual linkages needed to elevate the strategic vantage point of the MITA Framework. To guide this change, we present within this chapter a definition, description, and approach to modeling business capabilities, based on the widely used capability models contextualized for Medicaid Enterprises.</p>
 <p>The business processes that operationalize MITA capabilities remain foundational to characterizing the business architecture, and are by definition a constituent part of any MITA capability. They provide essential information on how capabilities are operationalize and should continue to be a routinely utilized reference model for SMA business process mapping. They are found with in the Business Process Model chapter of this version of MITA.</p>
 </section>
+</section>
+<section id="the-mita-definition-of-capability" class="level2">
+<h2 class="anchored" data-anchor-id="the-mita-definition-of-capability">The MITA Definition of Capability</h2>
+<p>Within the context of MITA, a capability can be defined as the ability or capacity of a State Medicaid Agency to achieve a desired outcome in compliance with the <a href="https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433/subpart-C/section-433.112">Standards and Conditions within 42 CFR 433.112</a>. A capability may currently exist in an operational state or be envisioned for future development. Through careful planning, capabilities defined in this way can be matured and refined over time to become more effective and efficient. They can be organized and detailed at various levels of abstraction, providing precise descriptions for operational purposes or more generalized views for strategic planning.</p>
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Definition
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>…a capability is defined as the ability or capacity of a SMA to achieve a desired outcome…</p>
+</div>
+</div>
+<p>To fully define a business capability, it is essential to understand how it is realized through the integration of people, processes, information, and technology resources of an SMA. While these elements of the capability can change regularly, the capability itself is should endure over longer planning horizons, supporting the long-term alignment of business and IT and the achievement of increasingly beneficial business outcomes.</p>
+<section id="structure-of-the-mita-capability-model" class="level3">
+<h3 class="anchored" data-anchor-id="structure-of-the-mita-capability-model">Structure of the MITA Capability Model</h3>
+<p>As depicted in the model below, the MITA Capability Model orients the people, process, technology, and information resources to define a MITA Capability. This means that to model a capability the appropriate components of the information architecture and the technical architecture must be brought together with the business architecture to fully formulate any MITA Capability.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="media/capabilityModel/topLevelCapabilityMetamodelGraphic1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="MITA Capability Relationship Diagram"><img src="media/capabilityModel/topLevelCapabilityMetamodelGraphic1.png" title="MITA Capability" class="img-fluid figure-img" alt="This diagram visually represents the relationship between concept of a MITA Capability and the processes, roles, information, and technology concepts that comprize a MITA capability"></a></p>
+<figcaption>MITA Capability Relationship Diagram</figcaption>
+</figure>
+</div>
+<section id="business-roles" class="level4">
+<h4 class="anchored" data-anchor-id="business-roles">Business Roles</h4>
+<p>Business roles represent individual actors, stakeholders, or partners involved in delivering a business capability. A single organizational group or team may be wholly responsible for delivering the capability, or multiple business entities may share the delivery of a particular business capability. Business Roles perform Business Processes using Technology Resources. They require skills and knowledge resources to achieve outcomes, and should be actively engaged as partners in the development or enhancement of any capability they help deliver.</p>
+</section>
+<section id="business-processes" class="level4">
+<h4 class="anchored" data-anchor-id="business-processes">Business Processes</h4>
+<p>Individual business capabilities may be enabled or delivered through a range of business processes that detail the activities (the how) associated with delivering the capability. Identifying and analyzing the efficiency of the underlying processes helps to optimize the business capability’s effectiveness. Identifying the processes within a business capability provides a focus for maturing the capability in concert with the other capability components. Business Processes operationalize Business Capabilities.</p>
+</section>
+<section id="informationdata" class="level4">
+<h4 class="anchored" data-anchor-id="informationdata">Information/Data</h4>
+<p>Information/data represents the business data, knowledge, and insight consumed or produced by the business capability (as distinct from IT-related data entities). This may also include information that the capability exchanges with other capabilities to support the execution of value streams. Examples include information about customers and prospects, products and services, business policies and rules, sales reports, and performance metrics. Information/data inform the Business Capability, answering questions and supporting business rules.</p>
+</section>
+<section id="technology-resources" class="level4">
+<h4 class="anchored" data-anchor-id="technology-resources">Technology Resources</h4>
+<p>Business capabilities rely on a range of tools, applications, systems, and services for successful execution. Technology Resources use Information/data to facilitate Business Processes. Such resources may include:</p>
+<ul>
+<li>Modular software applications</li>
+<li>Cloud or on-premise infrastructure</li>
+<li>Microservices</li>
+<li>Analytics</li>
+<li>Customer portal</li>
+</ul>
+<p>In this way we can clearly interrelate all of the MITA architecture models and their individual components which allows us to reveal gaps not only in the individual components of the architecture, but also understand their impact on the integration of the architecture components at the capability level.</p>
+</section>
+</section>
 <section id="relationship-of-mita-capabilities-to-outcomes" class="level3">
 <h3 class="anchored" data-anchor-id="relationship-of-mita-capabilities-to-outcomes">Relationship of MITA Capabilities to Outcomes</h3>
 <p>In the context of the Medicaid Information Technology Architecture (MITA), outcomes are intrinsically linked to capabilities, as they represent the tangible results achieved through the effective integration and execution of various elements that constitute a capability. In this sense, outcomes and capabilities define each other.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="media/capabilityModel/topLevelCapabilityMetamodelOutcomes.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="MITA Capability and Outcome Relationship Diagram"><img src="media/capabilityModel/topLevelCapabilityMetamodelOutcomes.png" class="img-fluid figure-img" alt="This diagram visually represents the relationship between concepts of a MITA Outcome a KPI, a Measure, a Measure Threshold, and a MITA Capability as well as the processes, roles, information, and technology concepts that comprize a MITA capability"></a></p>
+<p><a href="media/capabilityModel/topLevelCapabilityMetamodelOutcomes.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="MITA Capability and Outcome Relationship Diagram"><img src="media/capabilityModel/topLevelCapabilityMetamodelOutcomes.png" class="img-fluid figure-img" alt="This diagram visually represents the relationship between concepts of a MITA Outcome a KPI, a Measure, a Measure Threshold, and a MITA Capability as well as the processes, roles, information, and technology concepts that comprize a MITA capability"></a></p>
 <figcaption>MITA Capability and Outcome Relationship Diagram</figcaption>
 </figure>
 </div>
@@ -587,20 +608,20 @@ ul.task-list li input[type="checkbox"] {
 <section id="organizing-capabilities" class="level3">
 <h3 class="anchored" data-anchor-id="organizing-capabilities">Organizing Capabilities</h3>
 <p>To enhance the resolution and detail of a capability and provide a unified view of all its components, a block diagram can be employed to provide a common view of any MES. This diagram effectively links the capability to business processes, roles, technical resources, and information resources through functional decomposition. By breaking down the capability into its constituent parts, the block diagram offers a visual representation that highlights the interrelationships and dependencies among these elements. This approach provides a clearer understanding of how each component contributes to the overall capability, facilitating more effective analysis, optimization, and alignment with organizational objectives.</p>
-<p><a href="media/capabilityModel/capabilityOgranizationModel.drawio.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="media/capabilityModel/capabilityOgranizationModel.drawio.png" class="img-fluid"></a></p>
+<p><a href="media/capabilityModel/capabilityOgranizationModel.drawio.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="media/capabilityModel/capabilityOgranizationModel.drawio.png" class="img-fluid"></a></p>
 <p>We use this same method to present an this top level view of the capabilities required to achieve CMS-required outcomes. From this view increasingly detailed models can be constructed.</p>
-<p><a href="media/capabilityModel/mesModuleBasedCapabilities.drawio.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="media/capabilityModel/mesModuleBasedCapabilities.drawio.png" class="img-fluid"></a></p>
+<p><a href="media/capabilityModel/mesModuleBasedCapabilities.drawio.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="media/capabilityModel/mesModuleBasedCapabilities.drawio.png" class="img-fluid"></a></p>
 </section>
 <section id="mita-capability-models" class="level3">
 <h3 class="anchored" data-anchor-id="mita-capability-models">MITA Capability Models</h3>
 <p>The MITA framework represents capabilities visually through a layered model that represent a capability of being composed of sub-capabilities and the processes, roles, information and technology resources (PRIT) that support the business in sustaining the capability. Each layer up depicts increasingly strategic capabilities and each layer down depicts the constituent elements that compose a capability in increasing operational detail. It is not the intention of this version of MITA to provide a full operational or tactical view of a capability, though SMAs may consider using this approach to improve their organizational awareness of their operations by developing further layers of their capabilities through functional decomposition.</p>
-<p><a href="media/capabilityModel/capabilityLevels.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="media/capabilityModel/capabilityLevels.png" class="img-fluid"></a></p>
+<p><a href="media/capabilityModel/capabilityLevels.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="media/capabilityModel/capabilityLevels.png" class="img-fluid"></a></p>
 <ul>
 <li><strong>Capability Domains:</strong> The first layer of this model aims to group capabilities to organize the strategic view of an SMA’s capabilities. In this view one or many capabilities can be grouped within a domain to indicate the pursuit of common outcomes. Each domain is denoted with a single number to help annotate each capability.</li>
 <li><strong>Capability Areas:</strong> The second layer of this model aims to provide a view of the groups of capabilities that compose a domain. They are organized to show capabilities that serve a specific group of similar outcomes and essential</li>
 <li><strong>Capabilities:</strong> The third layer of this model provides a more detailed view view of</li>
 </ul>
-<p><a href="media/capabilityModel/capabilityLevels2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="media/capabilityModel/capabilityLevels2.png" class="img-fluid"></a></p>
+<p><a href="media/capabilityModel/capabilityLevels2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="media/capabilityModel/capabilityLevels2.png" class="img-fluid"></a></p>
 </section>
 <section id="relationship-of-mita-capabilities-to-maturity" class="level3">
 <h3 class="anchored" data-anchor-id="relationship-of-mita-capabilities-to-maturity">Relationship of MITA Capabilities to Maturity</h3>
@@ -624,7 +645,7 @@ Warning
 <li>How capabilities evolve and mature over time</li>
 </ul></li>
 </ul>
-<p><a href="media/capabilityModel/maturityModel.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="media/capabilityModel/maturityModel.png" class="img-fluid"></a></p>
+<p><a href="media/capabilityModel/maturityModel.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="media/capabilityModel/maturityModel.png" class="img-fluid"></a></p>
 </section>
 <section id="using-capability-maps-for-heat-mapping-strategic-priorities-and-identifying-gaps-with-the-mita-maturity-model" class="level3">
 <h3 class="anchored" data-anchor-id="using-capability-maps-for-heat-mapping-strategic-priorities-and-identifying-gaps-with-the-mita-maturity-model">Using Capability Maps for Heat Mapping Strategic Priorities and Identifying Gaps with the MITA Maturity Model</h3>
@@ -1097,14 +1118,11 @@ Warning
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./mitaDiffernt.html" class="pagination-link" aria-label="How is MITA 4.0 different?">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">How is MITA 4.0 different?</span></span>
+      <a href="./orbit.html" class="pagination-link" aria-label="What is ORBIT?">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">What is ORBIT?</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./orbit.html" class="pagination-link" aria-label="What is ORBIT?">
-        <span class="nav-page-text"><span class="chapter-title">What is ORBIT?</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
