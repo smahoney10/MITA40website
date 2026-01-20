@@ -2,17 +2,17 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Medicaid Information Technology Architecture - Staging environment. Content subject to change.",
+    "title": "Medicaid Information Technology Architecture (MITA) 4.0",
     "section": "",
-    "text": "Welcome to the Medicaid Information Technology Architecture (MITA) 4.0\nWelcome to the MITA 4.0 documentation. This resource provides comprehensive guidance on understanding, implementing, and maximizing the benefits of MITA 4.0 for Medicaid Enterprise Systems (MES).",
+    "text": "Welcome to MITA 4.0\nWelcome to the MITA 4.0 documentation. This resource provides comprehensive guidance on understanding, implementing, and maximizing the benefits of MITA 4.0 for Medicaid Enterprise Systems (MES).",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to MITA 4.0</span>"
     ]
   },
   {
-    "objectID": "index.html#welcome-to-the-medicaid-information-technology-architecture-mita-4.0",
-    "href": "index.html#welcome-to-the-medicaid-information-technology-architecture-mita-4.0",
-    "title": "Medicaid Information Technology Architecture - Staging environment. Content subject to change.",
+    "objectID": "index.html#welcome-to-mita-4.0",
+    "href": "index.html#welcome-to-mita-4.0",
+    "title": "Medicaid Information Technology Architecture (MITA) 4.0",
     "section": "",
     "text": "What is MITA 4.0?\nThe Medicaid Information Technology Architecture (MITA) 4.0 is a framework designed to help states and territories develop and implement enterprise-wide information technology systems that support Medicaid business processes. MITA 4.0 represents the latest evolution of this framework, incorporating modern approaches to enterprise architecture and outcomes-based planning.\n\n\nGetting Started\nUse the navigation menu to explore:\n\nIntroduction to MITA 4.0: Learn about what MITA 4.0 is, its new features, benefits, and how to use it effectively\nUnderstanding MITA 4.0: Deep dive into the core concepts including outcomes-based planning, capabilities, business functions, and state self-assessment\nImplementing MITA 4.0: Step-by-step guidance for implementing MITA 4.0 in your organization\nMITA Reference Models: Access comprehensive reference models for capabilities, business processes, information, and technology\nTools and Resources: Utilize practical tools and templates to support your MITA implementation\n\n\n\nKey Benefits\n\nImproved alignment between business needs and technology solutions\nEnhanced interoperability across systems\nBetter outcomes measurement and tracking\nStreamlined state self-assessment processes\nAlignment with CMS requirements and guidance\n\nFor questions or support, please refer to the Contact Us section.",
     "crumbs": [
@@ -26,7 +26,7 @@
     "section": "",
     "text": "New Features in MITA 4.0\nMITA 4.0 introduces several significant enhancements and new features that modernize the framework and make it more effective for state Medicaid agencies.",
     "crumbs": [
-      "Introduction to MITA 4.0",
+      "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>New Features</span>"
     ]
   },
@@ -37,7 +37,7 @@
     "section": "",
     "text": "Key New Features\n\n1. Outcomes-Based Planning\nMITA 4.0 places outcomes at the forefront of planning and implementation. This approach ensures that technology investments directly support measurable business outcomes and strategic goals.\n\n\n2. Enhanced Capability Model\n\nMore granular capability definitions\nBetter alignment with modern Medicaid business processes\nImproved mapping to business, information, and technical architectures\n\n\n\n3. Modernized Reference Models\n\nUpdated Business Reference Model reflecting current Medicaid operations\nEnhanced Information Architecture guidance\nContemporary Technical Architecture patterns and standards\n\n\n\n4. Streamlined State Self-Assessment\n\nSimplified assessment process\nMore actionable maturity criteria\nBetter integration with capability planning\n\n\n\n5. Improved CMS Alignment\n\nDirect mapping to CMS business processes\nBetter support for federal reporting requirements\nAlignment with CMS policy and guidance\n\n\n\n6. Enhanced Tools and Resources\n\nORBIT Capabilities (Outcomes,Roles, Business, Information and Technology)\nUpdated State Self-Assessment Tool\nComprehensive templates and quick reference guides\n\n\n\n\nWhat’s Different from MITA 3.0?\nMITA 4.0 represents a significant evolution from MITA 3.0:\n\nFocus on Outcomes: Shift from purely technical architecture to business outcomes-driven approach\nSimplified Structure: Streamlined models that are easier to understand and apply\nModern Standards: Updated to reflect current technology standards and best practices\nPractical Tools: New and improved tools to support implementation\nFlexibility: More adaptable to different state contexts and implementation approaches\n\n\n\nBenefits of the New Features\n\nFaster implementation and adoption\nBetter alignment with business needs\nImproved measurement of success\nEnhanced collaboration between business and IT stakeholders\nMore effective communication with CMS\n\nFor more details on how to leverage these new features, see the Effective Use of MITA 4.0 section.",
     "crumbs": [
-      "Introduction to MITA 4.0",
+      "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>New Features</span>"
     ]
   },
@@ -48,7 +48,7 @@
     "section": "",
     "text": "Benefits of MITA 4.0 Adoption\nAdopting MITA 4.0 provides significant benefits for state Medicaid agencies, their stakeholders, and the beneficiaries they serve.",
     "crumbs": [
-      "Introduction to MITA 4.0",
+      "Introduction",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Benefits of Adoption</span>"
     ]
   },
@@ -59,7 +59,7 @@
     "section": "",
     "text": "Strategic Benefits\n\nBetter Business-IT Alignment\n\nEnsures technology investments directly support business outcomes\nImproves communication between business and technical teams\nCreates shared understanding of goals and priorities\n\n\n\nEnhanced Federal Funding\n\nDemonstrates alignment with CMS requirements\nSupports compelling business cases for Enhanced Funding (90/10)\nProvides clear documentation for federal reporting\n\n\n\nImproved Interoperability\n\nPromotes standards-based integration\nFacilitates data exchange with partners\nSupports modular system design\n\n\n\n\nOperational Benefits\n\nStreamlined Planning\n\nOutcomes-based approach simplifies decision-making\nClear roadmap from strategy to implementation\nBetter prioritization of initiatives\n\n\n\nRisk Reduction\n\nProven framework reduces implementation risks\nBest practices from across the nation\nClear maturity progression path\n\n\n\nCost Optimization\n\nIdentifies opportunities for reuse and consolidation\nPrevents redundant capabilities\nSupports shared services models\n\n\n\n\nStakeholder Benefits\n\nFor State Leadership\n\nClear line of sight from technology to business value\nBetter portfolio management\nImproved communication with federal partners\n\n\n\nFor Business Users\n\nTechnology that better supports their work\nInvolvement in planning and design\nContinuous improvement path\n\n\n\nFor IT Teams\n\nModern architecture patterns\nClear technical guidance\nIndustry standard approaches\n\n\n\nFor Beneficiaries\n\nBetter service delivery\nImproved access to benefits\nMore efficient operations",
     "crumbs": [
-      "Introduction to MITA 4.0",
+      "Introduction",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Benefits of Adoption</span>"
     ]
   },
@@ -70,63 +70,30 @@
     "section": "Effective Use of MITA 4.0",
     "text": "Effective Use of MITA 4.0\nTo maximize the value of MITA 4.0, consider these best practices:\n\n1. Start with Outcomes\nBegin every initiative by defining clear, measurable outcomes. Don’t start with technology solutions.\n\n\n2. Engage Stakeholders Early\nInclude business, technical, and program stakeholders from the beginning. MITA 4.0 works best as a collaborative framework.\n\n\n3. Use the Reference Models\nLeverage the capability, business, information, and technical reference models to: - Identify common patterns - Avoid reinventing solutions - Ensure alignment with industry standards\n\n\n4. Conduct Regular Self-Assessments\nUse the State Self-Assessment process to: - Track maturity progress - Identify gaps and opportunities - Prioritize improvement initiatives\n\n\n5. Leverage Available Tools\nTake advantage of MITA 4.0 tools and resources: - ORBIT for planning and tracking - State Self-Assessment Tool for maturity evaluation - Templates for documentation - Quick reference guides for implementation\n\n\n6. Align with CMS Guidance\nEnsure your MITA implementation supports CMS requirements for: - APD submissions - Certification and compliance - Federal reporting\n\n\n7. Think Modular and Incremental\nAdopt a modular approach: - Break large initiatives into manageable pieces - Deliver value incrementally - Learn and adjust as you go\n\n\n8. Share and Learn\nEngage with the MITA community: - Share experiences with other states - Learn from implementations across the nation - Participate in MITA forums and events\n\n\nGetting Started\nReady to begin? Follow these steps:\n\nReview the Understanding MITA 4.0 section\nExplore the Implementing MITA 4.0 guide\nAccess the Tools and Resources available to support your work\nContact CMS for additional guidance and support\n\n\n\nSuccess Factors\nOrganizations that successfully adopt MITA 4.0 typically: - Have executive sponsorship - Dedicate resources to the effort - Engage stakeholders broadly - Take an iterative approach - Measure and communicate progress - Seek guidance when needed\nFor questions about adoption or implementation, please visit the Contact Us section.",
     "crumbs": [
-      "Introduction to MITA 4.0",
+      "Introduction",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Benefits of Adoption</span>"
     ]
   },
   {
-    "objectID": "outcomesBasedPlanning.html",
-    "href": "outcomesBasedPlanning.html",
-    "title": "Outcomes-Based Planning",
+    "objectID": "understandingMITA.html",
+    "href": "understandingMITA.html",
+    "title": "Understanding MITA 4.0",
     "section": "",
-    "text": "What is it?\nOutcomes-based planning (OBP) is the first step in a strategic planning process that places system improvements at the center of MES investments. It helps states define their needs, the value their system and business investments are expected to deliver, track progress through measurable indicators, and demonstrate return on investment—specifically when seeking enhanced federal financial participation (FFP).\nOBP is the process of:\n\nIdentifying business challenges faced by a Medicaid program\nDefining the desired outcomes that address those challenges\nEstablishing clear metrics and milestones to measure progress\n\nRather than focusing solely on technology deliverables, the OBP approach ensures that each system initiative is purpose-built to drive measurable, meaningful benefits to the Medicaid program.\n\n\nWhy It Matters\nCMS-required outcomes are based on statutory or regulatory requirements and provide a baseline for what is required of a Medicaid Enterprise System (MES). CMS-required outcomes provide a baseline of requirements for an MES, yet to fully address programmatic needs, states should develop state-specific outcomes. The OBP process can help states develop state-specific outcomes.\nStates can request enhanced Federal Financial Participation (FFP) to fulfill state-specific needs. States requesting FFP should propose state-specific outcomes that demonstrate the successful achievement of the MES project, confirm the system functionality, and show benefit to the Medicaid program. State-specific outcomes should target achieving improvements to distinct business, operational, or policy challenges that produce direct benefits to the Medicaid program. These outcomes should respond to the unique needs of a state’s Medicaid program and represent operational improvements not specifically addressed by the CMS-required outcomes. State-specific outcomes should be measurable, achievable, and reflect the short-term goals of the MES project.\nMetrics must provide measurable evidence that the state is achieving outcomes on an ongoing basis. States are required to report on the system’s performance to CMS as a condition for receiving enhanced funding.\nCMS defines a good state-specific outcome as one that helps a state monitor the desired functionality and efficiency of its Medicaid program and operations.\nA good outcome should have the following characteristics:\n\nChange – What are we changing?\nAffected Stakeholders – Who and what will it impact?\nBenefits – What are the benefits of the change?\nCapability – What new or improved capabilities are required to make this change happen? Capabilities can be related, for example, to systems, manual processes, and staff capabilities.\n\n\nOutcome Statement Example\nImprove provider satisfaction ratings by 15 percent within the next six months.\nCharacteristics of the example Outcome statement:\n\nChange: Improve satisfaction with the Provider Enrollment approval timeline by providing streamlined and automated workflows to resolve issues within the Provider Enrollment application. (What is the goal?)\nAffected Stakeholders: Providers, Provider Organization, State users, etc. (Whose need does it address?)\nBenefits: Leads to quicker onboarding of providers, improves provider retention, and decreases state staff workload. (Why is it important?)\nCapability: Enhance the provider enrollment process to incorporate real-time workflow updates and add interactive channels for immediate issue resolution. (How do you achieve it?)\n\n\n\n\nHow It Works\nThe OBP process provides the following benefits:\n\nConsistent and repeatable process: A structured process ensures that outcomes are identified consistently across the organization, making it easier to replicate, scale and identify trends.\nSustainable: A well-designed process is sustainable and can be applied irrespective of the team or individuals involved, thus reducing reliance on specific people.\nTransparency: A clear process ensures transparency in outcome identification, making it easier to communicate, gain consensus, align with stakeholders, and build trust.\nTraceability: A structured process ensures that states can trace outcomes to the original challenge or opportunity, which maintains focus and context.\nContinuous Improvement: Increasing transparency promotes continuous improvement through regular review and refinement of outcomes.\n\nOther benefits include:\n\nEfficient resource allocation: A well-designed process helps to allocate resources to initiatives that drive meaningful change and align with strategic goals.\nImproved accountability: A clear process promotes accountability among team members by ensuring everyone understands what needs to be achieved.\nEnhanced collaboration: A structured process facilitates collaboration among stakeholders, ensuring that everyone is working toward common goals.\n\nSMAs can utilize the OBP process to achieve key objectives such as…\n\nDemonstrate the value of system investments\nA central objective of OBP is to clearly articulate the value that system investments bring to achieving state Medicaid program goals, improving day-to-day operations, and delivering measurable benefits to enrollees. Rather than focusing solely on the technical delivery of information technology (IT) components, OBP encourages states to frame investments in terms of policy alignment, operational efficiency, access to care, and service quality.\nFor example, although the technical gain of implementing a new provider enrollment module might be its successful deployment and functionality, the outcome for the state could be a 30 percent reduction in provider enrollment processing time. Such a reduction could lead to greater provider satisfaction with the enrollment experience, and improved retention and engagement. An additional benefit is that newly credentialed providers increase the number of providers participating in the Medicaid network and could serve patients more quickly by reduced time for beneficiaries to schedule and attend their first appointment.\n\n\nImprove program performance through strategic alignment\nOBP helps states align system investments with Medicaid priorities and operational needs by grounding modernization efforts in clear program goals, such as improving access, streamlining operations, or delivering measurable benefits. This approach avoids the common pitfall of investing in technically compliant solutions that fail to address core challenges. When outcomes are clearly articulated from the start, state teams are better positioned to ensure that vendor activities, solution architecture, and project milestones support broader Medicaid goals (such as reducing delays in beneficiary eligibility processing, enhancing provider participation, or improving claims accuracy).\nFor example, a state facing eligibility delays might set a goal of real-time verification for 90% of cases, guiding system design, procurement, and vendor accountability. Similarly, in addressing manual claims reprocessing, a state could define an outcome that reduces the claims rework rate by 40 percent within 12 months of go-live, thus aligning operational pain points directly with technology goals.\nBy fostering collaboration among program, policy, and IT teams, OBP prioritizes resources, secures leadership support, and strengthens the case for APD and certification approvals. Anchoring projects in outcome-driven goals ensures Medicaid modernization delivers meaningful and measurable improvements.\n\n\nStrengthen organizational readiness and capability\nOBP ensures system improvements are supported by the organizational changes needed for success, such as updates to business processes, staffing, training, and workflows. States must consider internal readiness, capacity, and change adoption to maximize the long-term impact of MES investments.\nThis involves integrating change management and workforce development into planning, ensuring staff, operations, and agency culture evolve with new functionality. Rather than treating these efforts as peripheral to technology implementation, OBP helps states define and measure how staff, operations, and agency culture will evolve alongside new functionality. For instance, launching a centralized eligibility center might aim to reduce eligibility determination time by 25% within six months or improve policy consistency through standardized workflows. Tracking such outcomes ensures system investments lead to better performance. OBP also enhances accountability, supports smooth transitions, and prepares states to manage future updates effectively.\n\n\nCreate a culture of measurement and accountability\nOBP helps states build a culture of results-oriented management, where success is measured by tangible improvements in Medicaid performance and beneficiary outcomes, not just system deployment. It shifts the focus from isolated IT milestones to using technology as a tool for continuous program improvement.\nStates embed measurement and accountability into MES investments by:\n\nIdentifying core business problems (e.g., service delays, provider friction, beneficiary churn)\nDefining actionable outcomes that link system functionality to Medicaid goals\nSelecting metrics that reflect operational and beneficiary impacts (e.g., time savings, cost avoidance, service accessibility)\nTracking performance to enable evidence-based management and system iteration\n\nFor example, modernizing a pharmacy benefits module might include tracking reductions in prescription errors, improved compliance with drug utilization protocols, or fewer adverse drug events. KPIs established early serve as tools for learning and course correction.\nThis approach embeds accountability into system design and operations, enabling strategic discussions about effectiveness, beneficiary impact, and return on investment. It strengthens executive buy-in, fosters cross-functional collaboration, and positions states for agile, data-driven program delivery while meeting CMS expectations.\n\n\nEnable consistency and reusability across state projects\nOBP helps states define Medicaid system goals using structured templates, common outcomes, and reusable language, ensuring consistency, reducing duplication, and streamlining APDs and certifications. This fosters alignment among teams, supports onboarding, and institutionalizes lessons learned.\nOBP also helps states identify cost-effective alternatives to large procurements, such as reusing existing modules, refining workflows (e.g., digital form intake for credentialing delays), or adopting shared tools like APIs. For example, delays in provider credentialing might be resolved with workflow refinements like digital form intake or better data integration with licensing boards. Similarly, data-sharing challenges could be addressed by adopting an existing API framework instead of building a new data warehouse.\nOutcomes addressing common Medicaid challenges (e.g., improving access, increasing automation, reducing delays) can be reused across agencies and states, enhancing CMS communication and supporting collaboration. Embedding reusability maximizes past investments, reduces future costs, and ensures every investment drives measurable Medicaid improvements.\n\n\n\nWhen to Use It\nOBP is not a one-size-fits-all requirement—it is a targeted strategy that delivers its greatest value when aligned with meaningful moments of system, program, or policy change. The following common triggers may initiate OBP efforts within MES modernization or operations. Recognizing these triggers helps states proactively define measurable value from the outset of MITA strategic planning, conducting the SS-A, APD development, and certification efforts.\n\n1. Initiating a new system modernization or module implementation\nImplementing a new MES module is a key moment to initiate OBP. Rather than viewing these implementations as technical upgrades, states can define success by using measurable Medicaid program improvements and business value.\nStates should use OBP to clarify what success looks like (e.g., “a 25 percent reduction in beneficiary wait times to receive eligibility determinations”), and to ensure that project investments produce real program value. This early focus on outcomes helps guide procurement language, vendor selection, and project milestones consistent with expectations that go beyond technical delivery.\n\n\n2. Transitioning from legacy systems or vendors\nWhen states decide to shift from legacy technology or change vendors, they have a natural reset point for strategic thinking. States should use this transition to reassess what the system needs to achieve, beyond replicating old functionality in a new platform.\nOBP helps states define transformational goals (such as enabling self-service portals to reduce call center volume), which lays a foundation for new investments that deliver policy and operational impact.\n\n\n3. MITA State Self-Assessment Results\nOne of the most strategic triggers for OBP is the completion (or planned completion) of a MITA State Self-Assessment (SS-A). The SS-A offers a structured view into the current and target maturity of Medicaid business capabilities and highlights gaps and areas for improvement.\nStates can use SS-A findings to prioritize outcome areas based on lower maturity. For example, if a state identifies low maturity in its technology and business processes for claims processing, this can trigger an OBP process that focuses on increasing electronic claims submission rates or reducing claims rework due because of data quality issues. The SS-A helps turn abstract maturity aspirations into concrete improvement goals with measurable impacts, thus linking system improvement needs with actionable, trackable outcomes that can feed directly into an APD or modular procurement strategy. For example, when reviewing the SS-A results, States have an opportunity to prioritize areas for improvement by reviewing maturity levels. Once areas are prioritized States can then choose to utilize OBP to reach a higher maturity level.\n\n\n4. Modernization of cross-module business processes\nStates often identify operational pain points that cut across multiple systems, such as provider management, claims adjudication, or program integrity. When these issues arise, OBP can help define cross-cutting outcome statements that transcend single modules.\nFor instance, if a state is addressing inefficiencies in provider onboarding across its Provider Enrollment module, it can develop outcomes that focus on improving onboarding timelines, enhancing provider data quality, or increasing provider retention rates. This strategic alignment helps unify disparate IT projects under a common business goal and facilitates modular but coordinated improvements.\n\n\n5. Shifts in Medicaid policy or strategic direction\nChanges in Medicaid policy (such as new regulatory or statutory requirements, public health emergencies, or shifts in policy) may create new system demands. When policy drives new use cases, OBP ensures that system updates support these priorities effectively.\nStates can respond to Medicaid policy changes by defining outcomes that reflect their evolving program goals. For example, implementing a new care coordination policy might prompt development of outcomes focused on closing care gaps or improving beneficiary engagement through system-supported interventions.\n\n\n6. Operational reviews or performance audits\nPerformance audits, legislative oversight, or internal quality reviews often highlight systemic issues that may not require full module replacement but do call for focused improvement. These reviews may trigger an OBP that defines smaller-scale or business process-focused changes with measurable goals.\nFor instance, if a review notes inefficiencies in processing pharmacy prior authorizations, a state might implement new workflows or automated tools supported by outcomes like faster turnaround times or reduced denial rates for incomplete documentation.\n\n\n7. Response to ad hoc incidents and corrective actions\nUnexpected events, such as data breaches, legal settlements, or formal corrective actions from CMS or other oversight bodies, often demand swift response. Yet these moments can also catalyze strategic reflection and planning for long-term improvement. OBP offers a way for states to shift from reactive fixes to proactive solutions by identifying root causes, defining specific outcome goals (e.g., “Reduce unauthorized access to beneficiary data by 95 percent within six months”), and tracking progress through metrics tied to strengthened policies, technical safeguards, and staff training.\nFor example, after a provider credential data breach, a state may implement multifactor authentication and measure outcomes such as reductions in credential misuse or improved audit trail completeness. In the case of a legal review identifying inconsistent eligibility determinations, the state might launch corrective training or refine business rules, anchored by outcomes like increased accuracy rates or a decline in appeals. By applying OBP, states demonstrate to CMS and legislative stakeholders both their commitment to compliance as well as their investment in long-term program integrity, transparency, and continuous improvement.\n\n\n\nDownload OBP Tool\nOutcomes-based Planning Tool",
+    "text": "Overview\nThis page describes the concepts and areas within the MITA framework.\nContent coming soon.",
     "crumbs": [
-      "Understanding MITA 4.0",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Outcomes-based Planning</span>"
+      "Introduction",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Understanding MITA 4.0</span>"
     ]
   },
   {
-    "objectID": "capabilityOverview.html",
-    "href": "capabilityOverview.html",
-    "title": "Capabilities",
-    "section": "",
-    "text": "Understanding Capabilities in MITA 4.0\nCapabilities are the fundamental building blocks of MITA 4.0. They represent what your organization needs to be able to do to achieve its outcomes, independent of how you do it or what technology you use.",
-    "crumbs": [
-      "Understanding MITA 4.0",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Capabilities</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityOverview.html#understanding-capabilities-in-mita-4.0",
-    "href": "capabilityOverview.html#understanding-capabilities-in-mita-4.0",
-    "title": "Capabilities",
-    "section": "",
-    "text": "What is a Capability?\nA capability is a particular ability that an organization needs to achieve a specific outcome. Capabilities describe what needs to be done, not how it’s done. This distinction is crucial because:\n\nThe what (capability) tends to remain stable over time\nThe how (technology, processes, organization) changes as technology evolves\n\n\n\nExamples of Capabilities\n\nMember Management: The ability to maintain accurate, current information about Medicaid beneficiaries\nClaims Processing: The ability to adjudicate and pay provider claims accurately and timely\nProvider Enrollment: The ability to enroll, credential, and maintain provider information\nEligibility Determination: The ability to determine if an applicant qualifies for Medicaid benefits\n\n\n\nThe MITA Capability Model\nThe MITA 4.0 Capability Reference Model organizes capabilities into a hierarchical structure:\n\nLevel 1: Capability Areas\nHigh-level groupings of related capabilities (e.g., Member Services, Provider Services, Operations)\n\n\nLevel 2: Capability Domains\nLogical groupings within areas (e.g., within Member Services: Eligibility, Enrollment, Benefits)\n\n\nLevel 3: Capabilities\nSpecific abilities needed to achieve outcomes\n\n\nLevel 4: Sub-Capabilities\nDetailed components of capabilities when needed for clarity\n\n\n\nWhy Capabilities Matter\n\n1. Outcome Achievement\nCapabilities are the bridge between strategic outcomes and implementation. They help you identify what your organization needs to be able to do to achieve desired outcomes.\n\n\n2. Common Language\nCapabilities provide a common vocabulary for business and IT stakeholders to discuss needs and solutions.\n\n\n3. Reusability\nBy focusing on capabilities rather than systems, you can identify opportunities to reuse existing capabilities across multiple initiatives.\n\n\n4. Modular Design\nCapability-based planning supports modular system design, making implementations more flexible and maintainable.\n\n\n5. Gap Analysis\nComparing required capabilities to existing capabilities reveals gaps that need to be addressed.\n\n\n\nCapability Characteristics\nEffective capability definitions are:\n\nBusiness-Focused: Described in business terms, not technical jargon\nStable: Remain relevant despite technology changes\nMeasurable: Can assess maturity and performance\nOutcome-Linked: Connected to specific business outcomes\nTechnology-Agnostic: Don’t prescribe specific solutions\n\n\n\nCapability Attributes\nEach capability in the MITA Reference Model includes:\n\nName: Clear, concise identifier\nDescription: What the capability enables\nOutcomes: Which outcomes the capability supports\nBusiness Functions: Related business processes\nInformation: Key data elements\nTechnology: Relevant technical patterns\nMaturity Levels: Progression from basic to advanced\n\n\n\nUsing Capabilities in Planning\n\nStep 1: Identify Required Capabilities\nBased on your defined outcomes and objectives, identify which capabilities you need. Use the Capability Reference Model as a guide.\n\n\nStep 2: Assess Current State\nEvaluate your organization’s current capability maturity using the State Self-Assessment process.\n\n\nStep 3: Define Target State\nDetermine the desired maturity level for each capability based on your outcomes and objectives.\n\n\nStep 4: Identify Gaps\nCompare current state to target state to identify capability gaps.\n\n\nStep 5: Prioritize\nPrioritize which capabilities to develop or enhance based on: - Impact on outcomes - Dependencies between capabilities - Available resources - Risk\n\n\nStep 6: Plan Implementation\nDevelop a roadmap for building or enhancing capabilities, including: - Business process changes - Organizational/role changes - Information/data requirements - Technology solutions\n\n\n\nCapability vs. System\nA key distinction in MITA 4.0:\n\n\n\n\n\n\n\nCapability\nSystem\n\n\n\n\nWhat you need to do\nHow you do it\n\n\nBusiness-focused\nTechnology-focused\n\n\nStable over time\nChanges with technology\n\n\nMultiple systems can support one capability\nOne system may support multiple capabilities\n\n\n\n\n\nExample: Member Portal Capability\nCapability: Member Self-Service - What: Enable beneficiaries to access their information and perform transactions independently\nImplementation Options: - Web application - Mobile app - Interactive voice response (IVR) - Kiosk\nThe capability (self-service) remains constant, but the implementation (technology) can vary or evolve.\n\n\nCapability Relationships\nCapabilities don’t exist in isolation. Understanding relationships helps with planning:\n\nDependencies: Some capabilities require others (e.g., Claims Payment depends on Claims Adjudication)\nComposition: Larger capabilities composed of smaller ones\nShared Data: Capabilities that use common information\nProcess Flow: Capabilities that work together in business processes\n\n\n\nTools and Resources\n\nCapability Reference Model: Complete catalog of MITA capabilities\nORBIT Tool: Map outcomes to required capabilities\nCapability Assessment Worksheets: Evaluate capability maturity\n\n\n\nNext Steps\n\nReview the Capability Reference Model for detailed capability definitions\nLearn about Business Functions, Roles, Information, and Technology that implement capabilities\nSee Implementing MITA 4.0 for step-by-step guidance on identifying required capabilities\nConduct a State Self-Assessment to evaluate your current capability maturity\n\nFor questions about capabilities, visit the FAQs or Contact Us.",
-    "crumbs": [
-      "Understanding MITA 4.0",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Capabilities</span>"
-    ]
-  },
-  {
-    "objectID": "RBIT.html",
-    "href": "RBIT.html",
-    "title": "Roles, Business Processes, Information and Technology",
+    "objectID": "alignMITA.html",
+    "href": "alignMITA.html",
+    "title": "Bridging MITA and CMS Business Processes",
     "section": "",
     "text": "Content coming soon…",
     "crumbs": [
-      "Understanding MITA 4.0",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Business Functions, Roles, Information, and Technology</span>"
-    ]
-  },
-  {
-    "objectID": "assessMaturity.html",
-    "href": "assessMaturity.html",
-    "title": "State Self-Assessment",
-    "section": "",
-    "text": "Content coming soon…",
-    "crumbs": [
-      "Understanding MITA 4.0",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>State Self-Assessment</span>"
+      "Introduction",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bridging MITA and CMS Business Processes</span>"
     ]
   },
   {
@@ -136,7 +103,7 @@
     "section": "",
     "text": "New in MITA 4.0\nThe Centers for Medicare & Medicaid Services (CMS) Medicaid Information Technology Architecture (MITA) 4.0 helps your State Medicaid Agency (SMA) achieve your enterprise goals and enhance your Medicaid program by aligning business and information technology (IT) strategies.\nMITA 4.0 guides you through Enterprise Strategic Planning to describe the way your SMA works now and plan for the way you want to work in the future. MITA 4.0 also helps you align your Medicaid Enterprise System (MES) with:\nThis guide will lead you through the stages of MITA 4.0—defining or updating outcomes, identifying required capabilities, defining your capability architecture, and documenting your State Self-Assessment (Figure 1). The MITA 4.0 Companion Guide offers a flexible approach to Enterprise Strategic Planning—your SMA’s path may look different depending on your state’s needs.",
     "crumbs": [
-      "Implementing MITA 4.0",
+      "MITA 4.0 Companion Guide",
       "Welcome to the MITA 4.0 Companion Guide"
     ]
   },
@@ -147,8 +114,8 @@
     "section": "",
     "text": "What? | Overview\nOutcomes-based planning (OBP) is the first step in a strategic planning process that places system improvements at the center of MES investments. It helps states define their needs, the value their system and business investments are expected to deliver, track progress through measurable indicators, and demonstrate return on investment—specifically when seeking enhanced federal financial participation (FFP).\nOBP is the process of:\nRather than focusing solely on technology deliverables, the OBP approach ensures that each system initiative is purpose-built to drive measurable, meaningful benefits to the Medicaid program.",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -158,8 +125,8 @@
     "section": "",
     "text": "Identifying business challenges faced by a Medicaid program\nDefining the desired outcomes that address those challenges\nEstablishing clear metrics and milestones to measure progress",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -169,8 +136,8 @@
     "section": "When? | Triggers",
     "text": "When? | Triggers\n\nInitiating a new system modernization or module implementation\nTransitioning from legacy systems or vendors\nMITA State Self-Assessment Results\nModernization of cross-module business processes\nShifts in Medicaid policy or strategic direction\nOperational reviews or performance audits\nResponse to ad hoc incidents and corrective actions",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -180,8 +147,8 @@
     "section": "Why? | Objectives",
     "text": "Why? | Objectives\nOutcomes-based planning seeks to—\n\nDemonstrate the value of system investments\nImprove program performance through strategic alignment\nStrengthen organizational readiness and capability\nCreate a culture of measurement and accountability\nEnable consistency and reusability across state projects",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -191,8 +158,8 @@
     "section": "Who? | Key Players",
     "text": "Who? | Key Players\n\nProgram Subject Matter Experts\nState Medicaid Executives\nSenior Managers\nMITA Project Team",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -202,8 +169,8 @@
     "section": "How? | Key Steps & Actions",
     "text": "How? | Key Steps & Actions\nThe SMA starts by identifying the business challenge. This could be a new initiative or a problem the SMA is trying to solve (e.g., the trigger for initiating OBP) and describes the “as-is” state if needed to tease out the business challenge and determine appropriate outcomes and metrics.\n\nDefine the Business Challenge and Identify goals.\n\nIdentify the main concern that explains why you are not already at your goal (e.g., something blocking you, something you need to fix, something you haven’t done).\nIdentify the things that cause the concern or make it worse.\nIdentify specific pain points that are tangible, real world and observable that you can change.\nSummarize the concern and drivers in a business challenge statement.\n\nDevelop desired outcomes that identify what changes, improvements, or benefits will address the challenges and describe the “to-be” state.\n\nReverse-engineer the concern and drivers, stating what they would look like when corrected. This is the first step in identifying the “to-be” state. An example would be, “Organizations are able to share information electronically.”\nIdentify the audience that would benefit from the outcome and the desired result from their perspective.\nIdentify what new or improved capability is needed to correct the concerns or facilitate the drivers, and the actor to implement the capability.\nSummarize the capability and benefits in an Outcome Statement.\n\nDetermine how to measure achievement or success. Determine how to measure, monitor, and report on progress to ensure improvements or benefits are reached.\n\nIdentify the success factors that provide the strongest indication of success and why.\nFor each success factor, corrected driver, and benefit, identify how to measure their status and improvement (either a metric or milestone).\n\nDefine what success looks like and how it can be validated.\n\nDetermine the desired time frame for accomplishing a goal.\nBased on the metrics associated with the critical success factors, identify target measurements that will indicate success.\nSummarize the time frame and metrics into a definition of success. The definition should be framed as a specific, measurable, achievable, relevant, and time-bound (SMART) objective.",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -213,8 +180,8 @@
     "section": "References & Tools",
     "text": "References & Tools\n\nReferences\nOutcomes-based Planning topic page\n\n\nTools\n\nOutcomes based planning template tool",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Scope your assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scope your assessment</span>"
     ]
   },
   {
@@ -224,8 +191,8 @@
     "section": "",
     "text": "What? | Overview\nBy identifying the required capabilities needed to achieve an outcome, SMAs can better align their information and technology resources and processes with their strategic business goals, which should enhance their insight for improving their CMS-required and state-specific outcomes.",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Choose your Capabilities</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Choose your Capabilities</span>"
     ]
   },
   {
@@ -235,8 +202,8 @@
     "section": "When? | Triggers",
     "text": "When? | Triggers\nOnce outcomes and metrics have been developed, they should be mapped to the MITA architecture and SS-A processes to ensure a complete capture of an SMA’s maturity. This mapping will be helpful when assessing the maturity of each capability’s outcomes.",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Choose your Capabilities</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Choose your Capabilities</span>"
     ]
   },
   {
@@ -246,8 +213,8 @@
     "section": "Why? | Objectives",
     "text": "Why? | Objectives\nAligning information and technology resources and processes to goals should improve insight into how to address needed changes and improvements to achieve success. The capability maturity assessment scores may help to define the projects needed to achieve outcomes. The assessment may also help shape the initial identified outcomes and add more information.",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Choose your Capabilities</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Choose your Capabilities</span>"
     ]
   },
   {
@@ -257,8 +224,8 @@
     "section": "Who? | Key Players",
     "text": "Who? | Key Players\n\nProgram Subject Matter Experts\nMITA Project Team",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Choose your Capabilities</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Choose your Capabilities</span>"
     ]
   },
   {
@@ -268,8 +235,8 @@
     "section": "How? | Key Steps & Actions",
     "text": "How? | Key Steps & Actions\n\nMap outcomes to MITA capability areas.\n\nUse the MITA 4.0 Capability Model to determine the capabilities that impact the achievement of the goal.\nIf already defined, map state specific capabilities to each MITA 4.0 Capability Area.\nIf capabilities are not defined, map outcomes from previous step to MITA 4.0 Capability Area, potentially mapping multiple outcomes to one capability areas.\n\nIf applicable, revisit the prior maturity assessment for those capabilities mapped to outcomes.\n\nDocument the as is maturity for each capability area mapped to an outcome.\nDocument the target maturity for each capability area mapped to an outcome.\n\nUpdate capability mapping as state specific capabilities are defined and as maturity assessments are conducted.",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Choose your Capabilities</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Choose your Capabilities</span>"
     ]
   },
   {
@@ -279,8 +246,8 @@
     "section": "References & Tools",
     "text": "References & Tools\n\nReferences\n\nMITA 4.0 Capability Map\n\n\n\nTools\n\nOutcomes-based Planning template tool",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Choose your Capabilities</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Choose your Capabilities</span>"
     ]
   },
   {
@@ -290,8 +257,8 @@
     "section": "",
     "text": "What? | Overview\n[Brief description of stage]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Define your Architecture</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Define your Architecture</span>"
     ]
   },
   {
@@ -301,8 +268,8 @@
     "section": "When? | Triggers",
     "text": "When? | Triggers\n[Bullets or description of when to start this stage]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Define your Architecture</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Define your Architecture</span>"
     ]
   },
   {
@@ -312,8 +279,8 @@
     "section": "Why? | Objectives",
     "text": "Why? | Objectives\nBy the end of this stage—\n\n[Objective 1]\n[Objective 2]\n[Objective n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Define your Architecture</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Define your Architecture</span>"
     ]
   },
   {
@@ -323,8 +290,8 @@
     "section": "Who? | Key Players",
     "text": "Who? | Key Players\n\n[Key player 1]\n[Key player 2]\n[Key player n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Define your Architecture</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Define your Architecture</span>"
     ]
   },
   {
@@ -334,8 +301,8 @@
     "section": "How? | Key Steps & Actions",
     "text": "How? | Key Steps & Actions\n\n[Step 1]\n\n[Action 1 for Step 1]\n[Action 2 for Step 1]\n[Action n for Step 1]\n\n\n\n[Step n]\n\n[Action 1 for Step n]\n[Action 2 for Step n]\n[Action n for Step n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Define your Architecture</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Define your Architecture</span>"
     ]
   },
   {
@@ -345,8 +312,8 @@
     "section": "References & Tools",
     "text": "References & Tools\n\nReferences\n\n[Reference 1]\n[Reference n]\n\n\n\nTools\n\n[Tool 1]\n[Tool n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Define your Architecture</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Define your Architecture</span>"
     ]
   },
   {
@@ -356,8 +323,8 @@
     "section": "",
     "text": "What? | Overview\n[Brief description of stage]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
     ]
   },
   {
@@ -367,8 +334,8 @@
     "section": "When? | Triggers",
     "text": "When? | Triggers\n[Bullets or description of when to start this stage]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
     ]
   },
   {
@@ -378,8 +345,8 @@
     "section": "Why? | Objectives",
     "text": "Why? | Objectives\nBy the end of this stage—\n\n[Objective 1]\n[Objective 2]\n[Objective n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
     ]
   },
   {
@@ -389,8 +356,8 @@
     "section": "Who? | Key Players",
     "text": "Who? | Key Players\n\n[Key player 1]\n[Key player 2]\n[Key player n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
     ]
   },
   {
@@ -400,8 +367,8 @@
     "section": "How? | Key Steps & Actions",
     "text": "How? | Key Steps & Actions\n\n[Step 1]\n\n[Action 1 for Step 1]\n[Action 2 for Step 1]\n[Action n for Step 1]\n\n\n\n[Step n]\n\n[Action 1 for Step n]\n[Action 2 for Step n]\n[Action n for Step n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
     ]
   },
   {
@@ -411,129 +378,151 @@
     "section": "References & Tools",
     "text": "References & Tools\n\nReferences\n\n[Reference 1]\n[Reference n]\n\n\n\nTools\n\n[Tool 1]\n[Tool n]",
     "crumbs": [
-      "Implementing MITA 4.0",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
+      "MITA 4.0 Companion Guide",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Finalize your State Self-Assessment</span>"
     ]
   },
   {
-    "objectID": "capabilityModel.html",
-    "href": "capabilityModel.html",
-    "title": "Capability, Business, Information, and Technical Models",
+    "objectID": "baGuidelines.html",
+    "href": "baGuidelines.html",
+    "title": "Business Architecture Development and Management Guidelines",
     "section": "",
-    "text": "MITA Reference Models Overview\nThe MITA 4.0 Reference Models provide comprehensive guidance across all architecture domains. These models work together to support capability-based planning and implementation.",
+    "text": "Overview\nThis page provides guidelines for developing and managing business architecture within the MITA framework.\nContent coming soon.",
     "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
+      "Business Architecture",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>BA Guidelines</span>"
     ]
   },
   {
-    "objectID": "capabilityModel.html#mita-reference-models-overview",
-    "href": "capabilityModel.html#mita-reference-models-overview",
-    "title": "Capability, Business, Information, and Technical Models",
+    "objectID": "baCapabilityModel.html",
+    "href": "baCapabilityModel.html",
+    "title": "Business Capability Reference Model",
     "section": "",
-    "text": "The Four Reference Models\nMITA 4.0 includes four interconnected reference models:\n\nCapability Reference Model: Defines what organizations need to be able to do\nBusiness Reference Model: Defines how work gets done\nInformation Reference Model: Defines what information is needed and how it flows\nTechnical Reference Model: Defines technology patterns and standards",
+    "text": "Overview\nThis page describes the Business Capability Reference Model within the MITA framework.\nContent coming soon.",
     "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
+      "Business Architecture",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Business Capability Reference Model</span>"
     ]
   },
   {
-    "objectID": "capabilityModel.html#capability-reference-model",
-    "href": "capabilityModel.html#capability-reference-model",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Capability Reference Model",
-    "text": "Capability Reference Model\nThe Capability Reference Model is the foundation of MITA 4.0.\n\nPurpose\nProvides a comprehensive catalog of capabilities needed by state Medicaid agencies to operate their programs effectively.\n\n\nStructure\n\nCapability Areas (Level 1)\nHigh-level groupings of related capabilities: - Member Services: Capabilities supporting beneficiaries - Provider Services: Capabilities supporting providers - Program Operations: Core operational capabilities - Program Integrity: Fraud, waste, and abuse prevention - Financial Management: Financial and payment capabilities - Business Intelligence: Analytics and reporting capabilities - Enterprise Services: Shared, foundational capabilities\n\n\nCapability Domains (Level 2)\nLogical groupings within areas. For example, within Member Services: - Eligibility Management - Enrollment Management - Benefits Management - Member Communications - Member Self-Service\n\n\nCapabilities (Level 3)\nSpecific abilities needed. For example, within Eligibility Management: - Eligibility Determination - Eligibility Verification - Eligibility Renewal - Eligibility Appeals - Eligibility Reporting\n\n\n\nUsing the Capability Model\n\nFor Planning\n\nIdentify which capabilities you need\nMap capabilities to outcomes\nIdentify capability gaps\nPrioritize investments\n\n\n\nFor Assessment\n\nAssess current capability maturity\nDefine target maturity levels\nTrack improvement over time\n\n\n\nFor Communication\n\nProvide common vocabulary\nFacilitate stakeholder discussions\nSupport federal reporting\n\n\n\n\nKey Capabilities by Area\n\nMember Services\n\nEligibility Determination\nEnrollment Management\nBenefits Administration\nMember Self-Service\nCare Coordination\nMember Communications\n\n\n\nProvider Services\n\nProvider Enrollment\nProvider Credentialing\nProvider Portal\nProvider Communications\nNetwork Management\n\n\n\nProgram Operations\n\nClaims Processing\nClaims Adjudication\nPayment Processing\nPrior Authorization\nUtilization Management\nCase Management\n\n\n\nProgram Integrity\n\nFraud Detection\nProgram Auditing\nRecovery Audit\nProvider Compliance Monitoring\n\n\n\nFinancial Management\n\nBudget Management\nFinancial Reporting\nCost Allocation\nFinancial Forecasting\nPayment Reconciliation\n\n\n\nBusiness Intelligence\n\nData Analytics\nPerformance Reporting\nDashboard and Visualization\nPredictive Analytics\nData Warehouse Management\n\n\n\nEnterprise Services\n\nDocument Management\nIdentity Management\nSecurity Management\nIntegration Services\nMaster Data Management\nEnterprise Architecture Management",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#business-reference-model",
-    "href": "capabilityModel.html#business-reference-model",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Business Reference Model",
-    "text": "Business Reference Model\nDefines the business processes that implement capabilities.\n\nPurpose\nProvides standard definitions of Medicaid business processes, supporting consistent process design and facilitating benchmarking.\n\n\nComponents\n\nBusiness Processes\nStep-by-step workflows that deliver capabilities. Each process includes: - Process description - Process flow diagram - Inputs and outputs - Business rules - Related capabilities - Integration points\n\n\nProcess Patterns\nCommon patterns that appear across processes: - Application and intake - Verification and validation - Decision and determination - Notification and communication - Appeal and dispute resolution\n\n\n\nExample Business Processes\n\nEligibility Determination Process\n\nReceive application\nVerify identity\nCollect required information\nVerify income and assets\nApply eligibility rules\nMake determination\nNotify applicant\nActivate benefits (if eligible)\n\n\n\nClaims Processing\n\nReceive claim\nValidate claim format\nVerify member eligibility\nVerify provider enrollment\nApply pricing rules\nAdjudicate claim\nGenerate payment or denial\nNotify provider\n\n\n\n\nUsing the Business Model\n\nDesign or redesign business processes\nIdentify process improvement opportunities\nSupport business process modeling\nDefine requirements for systems\n\nSee Business Reference Model for detailed process definitions.",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#information-reference-model",
-    "href": "capabilityModel.html#information-reference-model",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Information Reference Model",
-    "text": "Information Reference Model\nDefines information requirements and data standards.\n\nPurpose\nProvides a common information framework, supporting data consistency, quality, and interoperability.\n\n\nComponents\n\nData Entities\nKey information objects: - Member: Beneficiary information - Provider: Provider demographics and credentials - Claim: Claims data - Service: Service descriptions - Authorization: Prior authorization information - Enrollment: Enrollment data - Payment: Payment information\n\n\nData Attributes\nKey data elements for each entity, including: - Attribute definition - Data type and format - Validation rules - Source systems - Usage\n\n\nInformation Flows\nHow information moves between processes and systems: - Data exchange patterns - Integration requirements - Timing and frequency - Standards applied\n\n\nData Standards\nApplicable standards: - HIPAA: Transaction and code sets - FHIR: Health data exchange - X12: Electronic data interchange - HL7: Health Level 7 standards - State-specific: State data standards\n\n\n\nData Quality Dimensions\n\nAccuracy: Data correctly represents reality\nCompleteness: All required data is present\nConsistency: Data is uniform across systems\nTimeliness: Data is current and available when needed\nValidity: Data conforms to defined formats and rules\n\n\n\nUsing the Information Model\n\nDefine data requirements\nEnsure data consistency\nPlan data integration\nSupport data governance\n\nSee Information Reference Model for detailed data definitions.",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#technical-reference-model",
-    "href": "capabilityModel.html#technical-reference-model",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Technical Reference Model",
-    "text": "Technical Reference Model\nDefines technology patterns, standards, and approaches.\n\nPurpose\nProvides technical guidance for implementing capabilities, supporting modern, standards-based, interoperable solutions.\n\n\nComponents\n\nArchitecture Patterns\nRecommended approaches: - Microservices: Modular, independently deployable services - API-First: Services exposed through standard APIs - Event-Driven: Asynchronous, event-based integration - Cloud-Native: Designed for cloud platforms - Mobile-First: Optimized for mobile devices\n\n\nTechnical Standards\nApplicable standards: - APIs: RESTful APIs, GraphQL - Security: OAuth 2.0, OpenID Connect, SAML - Integration: FHIR, X12, HL7 - Data: JSON, XML, CSV - Accessibility: Section 508, WCAG 2.1\n\n\nTechnology Domains\nGuidance across technology areas:\nApplication Services - Web applications - Mobile applications - APIs and microservices - Batch processing\nData Management - Databases and data stores - Data warehouses - Master data management - Data lakes\nIntegration - Service bus/ESB - API gateway - Data exchange - Real-time integration\nInfrastructure - Cloud platforms (AWS, Azure, GCP) - Containers and orchestration - Serverless computing - Infrastructure as code\nSecurity - Identity and access management - Encryption and key management - Security monitoring - Compliance controls\n\n\n\nUsing the Technical Model\n\nMake technology decisions\nEnsure standards compliance\nPlan technical architecture\nSupport procurement\n\nSee Technical Reference Model for detailed technical guidance.",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#how-the-models-work-together",
-    "href": "capabilityModel.html#how-the-models-work-together",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "How the Models Work Together",
-    "text": "How the Models Work Together\nThe reference models are interconnected:\n\nCapabilities define what you need to do\nBusiness Processes define how to do it\nInformation defines what data is needed\nTechnology defines how to enable it\n\n\nExample: Claims Processing\n\n\n\n\n\n\n\nModel\nComponent\n\n\n\n\nCapability\nClaims Processing - ability to adjudicate and pay claims\n\n\nBusiness\nClaims processing workflow, adjudication rules, payment process\n\n\nInformation\nClaim data, member data, provider data, service codes, payment information\n\n\nTechnology\nClaims management system, rules engine, payment system, EDI integration",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#maturity-reference-model",
-    "href": "capabilityModel.html#maturity-reference-model",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Maturity Reference Model",
-    "text": "Maturity Reference Model\nIn addition to the four main reference models, MITA 4.0 includes a Maturity Reference Model that defines maturity progression for each capability.\nSee Maturity Reference Model for details.",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#using-the-reference-models",
-    "href": "capabilityModel.html#using-the-reference-models",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Using the Reference Models",
-    "text": "Using the Reference Models\n\nFor Planning\n\nIdentify required capabilities, processes, data, and technology\nUse standard definitions for consistency\nLeverage proven patterns\n\n\n\nFor Implementation\n\nDesign solutions aligned with reference models\nApply recommended standards\nAvoid reinventing solutions\n\n\n\nFor Assessment\n\nEvaluate alignment with reference models\nIdentify gaps and improvement opportunities\nTrack maturity progress\n\n\n\nFor Communication\n\nUse common vocabulary\nSupport stakeholder discussions\nFacilitate collaboration",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "capabilityModel.html#next-steps",
-    "href": "capabilityModel.html#next-steps",
-    "title": "Capability, Business, Information, and Technical Models",
-    "section": "Next Steps",
-    "text": "Next Steps\n\nReview individual reference models:\n\nBusiness Reference Model\nRole Reference Model\nInformation Reference Model\nTechnical Reference Model\nMaturity Reference Model\n\nApply reference models to your work:\n\nIdentify Capabilities\nDefine Architecture\nConduct Assessment\n\nUse tools and templates:\n\nORBIT Tool\nCONOPS Template\n\n\nFor questions about the reference models, see FAQs or Contact Us.",
-    "crumbs": [
-      "MITA Reference Models",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Capability, Business, Information, and Technical Models</span>"
-    ]
-  },
-  {
-    "objectID": "alignMITA.html",
-    "href": "alignMITA.html",
-    "title": "Bridging MITA and CMS Business Processes",
+    "objectID": "baProcessModel.html",
+    "href": "baProcessModel.html",
+    "title": "Business Process Model",
     "section": "",
-    "text": "Content coming soon…",
+    "text": "Overview\nThis page describes the Business Process Model within the MITA framework.\nContent coming soon.",
     "crumbs": [
-      "MITA 4.0 and CMS",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Bridging MITA and CMS Business Processes</span>"
+      "Business Architecture",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Business Process Model</span>"
+    ]
+  },
+  {
+    "objectID": "iaMaturityCriteria.html",
+    "href": "iaMaturityCriteria.html",
+    "title": "Information Architecture Maturity Criteria",
+    "section": "",
+    "text": "Overview\nThis page describes the maturity criteria for Information Architecture within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Business Architecture",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Business Maturity Criteria</span>"
+    ]
+  },
+  {
+    "objectID": "iaGuidelines.html",
+    "href": "iaGuidelines.html",
+    "title": "Information Architecture Development and Management Guidelines",
+    "section": "",
+    "text": "Overview\nThis page provides guidelines for developing and managing information architecture within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Information Architecture",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>IA Guidelines</span>"
+    ]
+  },
+  {
+    "objectID": "iaDataCapabilityModel.html",
+    "href": "iaDataCapabilityModel.html",
+    "title": "Data Management Capability Reference Model",
+    "section": "",
+    "text": "Overview\nThis page describes the Data Management Capability Reference Model within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Information Architecture",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Data Management Capability Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "iaDataModel.html",
+    "href": "iaDataModel.html",
+    "title": "Data Reference Model",
+    "section": "",
+    "text": "Overview\nThis page describes the Data Reference Model within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Information Architecture",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Data Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "iaViewpoints.html",
+    "href": "iaViewpoints.html",
+    "title": "Information Architecture Viewpoints",
+    "section": "",
+    "text": "Overview\nThis page describes the viewpoints for Information Architecture within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Information Architecture",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>IA Viewpoints</span>"
+    ]
+  },
+  {
+    "objectID": "taGuidelines.html",
+    "href": "taGuidelines.html",
+    "title": "Technical Architecture Development and Management Guidelines",
+    "section": "",
+    "text": "Overview\nThis page provides guidelines for developing and managing technical architecture within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Technical Architecture",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>TA Guidelines</span>"
+    ]
+  },
+  {
+    "objectID": "taCapabilityModel.html",
+    "href": "taCapabilityModel.html",
+    "title": "Technical Capabilities Reference Model",
+    "section": "",
+    "text": "Overview\nThis page describes the Technical Capabilities Reference Model within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Technical Architecture",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Technical Capabilities Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "taServiceModel.html",
+    "href": "taServiceModel.html",
+    "title": "Technical Service Reference Model",
+    "section": "",
+    "text": "Overview\nThis page describes the Technical Service Reference Model within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Technical Architecture",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Technical Service Reference Model</span>"
+    ]
+  },
+  {
+    "objectID": "taMaturityCriteria.html",
+    "href": "taMaturityCriteria.html",
+    "title": "Technical Architecture Maturity Criteria",
+    "section": "",
+    "text": "Overview\nThis page describes the maturity criteria for Technical Architecture within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Technical Architecture",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>TA  Maturity Criteria</span>"
+    ]
+  },
+  {
+    "objectID": "taViewpoints.html",
+    "href": "taViewpoints.html",
+    "title": "Technical Architecture Viewpoints",
+    "section": "",
+    "text": "Overview\nThis page describes the viewpoints for Technical Architecture within the MITA framework.\nContent coming soon.",
+    "crumbs": [
+      "Technical Architecture",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>TA Viewpoints</span>"
     ]
   },
   {
@@ -544,7 +533,7 @@
     "text": "*coming soon",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>OBP Tool</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>OBP Tool</span>"
     ]
   },
   {
@@ -555,7 +544,7 @@
     "text": "Content coming soon…",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>State Self-Assessment Tool</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>State Self-Assessment Tool</span>"
     ]
   },
   {
@@ -566,7 +555,7 @@
     "text": "Content coming soon…",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>CONOPS Template</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>CONOPS Template</span>"
     ]
   },
   {
@@ -577,7 +566,7 @@
     "text": "Content coming soon…",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Roadmap Template</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Roadmap Template</span>"
     ]
   },
   {
@@ -588,7 +577,7 @@
     "text": "Content coming soon…",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>MITA Scorecard</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>MITA Scorecard</span>"
     ]
   },
   {
@@ -599,7 +588,7 @@
     "text": "Content coming soon…",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>SS-A Output Format</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>SS-A Output Format</span>"
     ]
   },
   {
@@ -610,7 +599,7 @@
     "text": "Content coming soon…",
     "crumbs": [
       "Tools and Resources",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Quick Reference Guides</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Quick Reference Guides</span>"
     ]
   },
   {
@@ -620,7 +609,7 @@
     "section": "",
     "text": "Frequently Asked Questions\nContent coming soon…",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>References</span>"
     ]
   },
   {
@@ -630,7 +619,7 @@
     "section": "Glossary of Terms and Acronyms",
     "text": "Glossary of Terms and Acronyms\nContent coming soon…",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>References</span>"
     ]
   },
   {
@@ -640,7 +629,7 @@
     "section": "Support Channels",
     "text": "Support Channels\nContent coming soon…",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>References</span>"
     ]
   },
   {
@@ -650,7 +639,7 @@
     "section": "Feedback and Issue Reporting",
     "text": "Feedback and Issue Reporting\nContent coming soon…",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>References</span>"
     ]
   }
 ]
